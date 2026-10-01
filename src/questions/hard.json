@@ -1,0 +1,2005 @@
+[
+  {
+    "id": 1,
+    "difficulty": "hard",
+    "category": "ISR Operations",
+    "lesson": "ISR Operations",
+    "tags": [
+      "surveillance",
+      "reconnaissance",
+      "intelligence"
+    ],
+    "prompt": "A brigade must continuously observe a hospital compound, learn whether a footbridge holds vehicles, and give the commander a product that combines both results with SIGINT. Which assignment of terms is correct?",
+    "options": [
+      "Reconnaissance for the compound, surveillance for the footbridge, intelligence for the combined product",
+      "Intelligence for the compound, surveillance for the footbridge, reconnaissance for the combined product",
+      "Surveillance for the compound, reconnaissance for the footbridge, intelligence for the combined product",
+      "Surveillance for both tasks, reconnaissance for the combined product"
+    ],
+    "answer": 2,
+    "explanation": "Slide 26 defines all three components. (ISR Operations, slide 26)"
+  },
+  {
+    "id": 2,
+    "difficulty": "hard",
+    "category": "ISR Operations",
+    "lesson": "ISR Operations",
+    "tags": [
+      "ISR definition",
+      "processing exploitation dissemination"
+    ],
+    "prompt": "Sensors collect useful data for a brigade, but no processing, exploitation or dissemination link reaches the commander. The S3 says ISR did its job. Which assessment is best?",
+    "options": [
+      "Complete: collection by sensors is all that ISR requires of the staff, since the commander can process it",
+      "Complete: intelligence is the product of collection, so processing and dissemination links do not affect the result",
+      "Incomplete only because too few human intelligence teams were used in the collection plan for this brigade",
+      "Incomplete: ISR must synchronize sensors, assets and processing, exploitation and dissemination systems in support of operations"
+    ],
+    "answer": 3,
+    "explanation": "Slide 22 defines ISR as an integrated activity spanning sensors, assets and PED systems. (ISR Operations, slide 22)"
+  },
+  {
+    "id": 3,
+    "difficulty": "hard",
+    "category": "ISR Operations",
+    "lesson": "ISR Operations",
+    "tags": [
+      "ISR sources",
+      "ISR assets"
+    ],
+    "prompt": "A Philippine Army brigade S2's collection plan lists intercepted radio traffic, radar and infrared imagery, and a human intelligence team in coastal barangays. The S3 says only satellite optical imagery counts as ISR. Which assessment fits the lesson?",
+    "options": [
+      "S3 is right: ISR sources are limited to optical imaging from satellites",
+      "S3 is right: human intelligence teams are not treated as ISR assets",
+      "S3 is partly right: radar and infrared fall outside ISR sources",
+      "S2 is right: every listed source and asset falls within ISR"
+    ],
+    "answer": 3,
+    "explanation": "Slide 23 lists electronic communications, optical, radar and infrared imaging as sources, and includes human intelligence teams among ISR assets. (ISR Operations, slide 23)"
+  },
+  {
+    "id": 4,
+    "difficulty": "hard",
+    "category": "ISR Operations",
+    "lesson": "ISR Operations",
+    "tags": [
+      "anticipate enemy actions",
+      "adversary vulnerabilities",
+      "deception"
+    ],
+    "prompt": "Before an offensive, a brigade wants to predict enemy reaction, find where the enemy is weakest, and detect enemy deception. Which ISR aims match?",
+    "options": [
+      "Evaluating combat effectiveness, holding targets at risk, alerting friendly forces",
+      "Anticipating enemy actions, identifying adversary vulnerabilities, counteracting deception",
+      "Alerting friendly forces, evaluating effectiveness, defining the environment",
+      "Holding targets at risk, supporting deception, evaluating effectiveness"
+    ],
+    "answer": 1,
+    "explanation": "Slide 28 lists all three aims. (ISR Operations, slide 28)"
+  },
+  {
+    "id": 5,
+    "difficulty": "hard",
+    "category": "ISR Operations",
+    "lesson": "ISR Operations",
+    "tags": [
+      "ISR systems",
+      "unstructured data"
+    ],
+    "prompt": "A Philippine Army staff receives unstructured imagery, text and signals feeds from small mobile devices and a satellite. The chief of staff wants to cut the mobile-device feeds because 'only satellites give usable insights.' Which advice fits the lesson?",
+    "options": [
+      "Cut them: ISR systems handle only structured data, not raw feeds",
+      "Cut them: only large satellites yield insights commanders can use",
+      "Cut them: faster information flow tends to slow decision-making",
+      "Keep them: ISR systems of all sizes turn unstructured data into insights"
+    ],
+    "answer": 3,
+    "explanation": "Slide 29 says ISR systems range from mobile devices to satellites and use unstructured data to extract insights that let warfighters make better decisions. (ISR Operations, slide 29)"
+  },
+  {
+    "id": 6,
+    "difficulty": "hard",
+    "category": "ISR Operations",
+    "lesson": "ISR Operations",
+    "tags": [
+      "support to planning",
+      "evaluate combat effectiveness"
+    ],
+    "prompt": "Higher headquarters wants ISR to support planning, but the staff supplies only post-attack combat-effectiveness assessments. Which is the gap?",
+    "options": [
+      "No gap: combat-effectiveness assessment fulfills every ISR aim",
+      "Support to planning is missing; evaluating effectiveness is only one stated aim",
+      "No gap: planning support is an operations task, not an ISR aim",
+      "The gap is deception support, the only aim tied to planning"
+    ],
+    "answer": 1,
+    "explanation": "Slide 28 lists planning support and evaluation as separate aims. (ISR Operations, slide 28)"
+  },
+  {
+    "id": 7,
+    "difficulty": "hard",
+    "category": "ISR Operations",
+    "lesson": "ISR Operations",
+    "tags": [
+      "HALE",
+      "UAV"
+    ],
+    "prompt": "A task force needs long, high-altitude overhead coverage and a way to engage targets found through ISR. Which combination fits?",
+    "options": [
+      "A HALE platform for endurance and an armed UAV for engagement",
+      "A manned aircraft for endurance and a HALE vehicle for engagement",
+      "A ground radar for endurance and a submarine for engagement",
+      "A satellite for endurance and a sensor network for engagement"
+    ],
+    "answer": 0,
+    "explanation": "Slides 32 and 36 support HALE endurance and armed UAV engagement. (ISR Operations, slides 32, 36)"
+  },
+  {
+    "id": 8,
+    "difficulty": "hard",
+    "category": "ISR Operations",
+    "lesson": "ISR Operations",
+    "tags": [
+      "manned reconnaissance aircraft",
+      "UAV"
+    ],
+    "prompt": "A Philippine Army task force has a manned reconnaissance aircraft and an armed UAV. One must fill the traditional aerial reconnaissance role; the other must engage targets identified through ISR. Which assignment fits?",
+    "options": [
+      "Armed UAV for traditional reconnaissance; manned aircraft for strike",
+      "Manned aircraft for both the reconnaissance and the strike roles",
+      "Manned aircraft for traditional reconnaissance; armed UAV for strike",
+      "Armed UAV for both the reconnaissance and the strike roles"
+    ],
+    "answer": 2,
+    "explanation": "Slide 35 calls manned reconnaissance aircraft the traditional approach; slide 32 says UAVs carrying payloads provide flexible, persistent strike against ISR-identified targets. (ISR Operations, slides 32, 35)"
+  },
+  {
+    "id": 9,
+    "difficulty": "hard",
+    "category": "ISR Operations",
+    "lesson": "ISR Operations",
+    "tags": [
+      "HALE",
+      "UAV",
+      "manned reconnaissance aircraft"
+    ],
+    "prompt": "A Philippine Army division ISR planner drafts four statements for the commander's brief on airborne assets. Which statement must the S2 correct before the brief?",
+    "options": [
+      "UAVs with missiles can engage targets identified through ISR",
+      "HALE vehicles are limited by pilot endurance to short sorties",
+      "Manned reconnaissance aircraft have been used since World War I",
+      "HALE vehicles can operate extremely high for many hours"
+    ],
+    "answer": 1,
+    "explanation": "Slide 36 says HALE vehicles can operate extremely high for many hours since the pilot has no limitations, so the claim of short sorties limited by pilot endurance is wrong. (ISR Operations, slides 32, 35, 36)"
+  },
+  {
+    "id": 10,
+    "difficulty": "hard",
+    "category": "ISR Operations",
+    "lesson": "ISR Operations",
+    "tags": [
+      "ground surveillance radar",
+      "sensor networks"
+    ],
+    "prompt": "A border post must watch a fixed crossing, later relocate its watch, and add sensors beyond friendly lines. Which mix fits?",
+    "options": [
+      "Tower-mounted radar, vehicle-mounted radar for relocation, and sensor networks dropped beyond friendly lines",
+      "Satellite imagery, submarine sensors, and commercial imagery",
+      "HALE vehicles for the crossing, a submarine for relocation, sensor networks for the border",
+      "Vehicle radar only, since towers cannot detect crossings"
+    ],
+    "answer": 0,
+    "explanation": "Slides 37-38 cover fixed and mobile radars and sensor networks. (ISR Operations, slides 37, 38)"
+  },
+  {
+    "id": 11,
+    "difficulty": "hard",
+    "category": "ISR Operations",
+    "lesson": "ISR Operations",
+    "tags": [
+      "terrestrial-based benefits",
+      "company UAS"
+    ],
+    "prompt": "A Philippine Army company commander needs live video of a suspected enemy camp, wants to reposition the collector on his own authority, and may need to act once the target is confirmed. Which benefits make organic company UAS the right fit?",
+    "options": [
+      "Unrestricted worldwide coverage, beyond-line-of-sight coverage, and denied-area collection",
+      "Unclassified imagery, easy access, and multinational sharing",
+      "Near-real-time video, local approval for relocation and tasking, and effects after target identification",
+      "Silent operation, invisibility to the enemy, and surface-fleet support"
+    ],
+    "answer": 2,
+    "explanation": "Slide 44 lists terrestrial-based ISR benefits: near-real-time full-motion video relay, local commander approval for relocation and tasking, and deployment of lethal or non-lethal effects after target identification. (ISR Operations, slide 44)"
+  },
+  {
+    "id": 12,
+    "difficulty": "hard",
+    "category": "ISR Operations",
+    "lesson": "ISR Operations",
+    "tags": [
+      "submarine",
+      "surface fleet",
+      "satellite"
+    ],
+    "prompt": "A naval plan uses a submarine for covert collection, the surface fleet as its foundation, and satellites for huge areas. Which assessment fits the lesson?",
+    "options": [
+      "Flawed: satellites are never useful for maritime ISR because ships move too quickly for orbital passes",
+      "Flawed: submarines are the backbone and the surface fleet is the most invisible asset in the military",
+      "Flawed: aviation is the backbone of maritime ISR, with the surface fleet playing only a supporting part",
+      "Sound: submarines are the most invisible asset, the surface fleet is the backbone, and satellites are incredible for observing huge areas"
+    ],
+    "answer": 3,
+    "explanation": "Slides 39-41 support each role. (ISR Operations, slides 39, 40, 41)"
+  },
+  {
+    "id": 13,
+    "difficulty": "hard",
+    "category": "ISR Operations",
+    "lesson": "ISR Operations",
+    "tags": [
+      "satellite orbit",
+      "maritime ISR"
+    ],
+    "prompt": "An adversary times strait movements to avoid satellite passes. Which adjustment fits the lesson?",
+    "options": [
+      "Rely on satellites more, because their regular orbits guarantee predictable coverage of the strait",
+      "Add maritime and airborne assets, because targets can track regular orbit cycles",
+      "Drop maritime assets, since satellites already cover huge areas and no other asset is needed",
+      "Wait for the next satellite pass before acting, because timing collection to orbits removes the risk"
+    ],
+    "answer": 1,
+    "explanation": "Slide 41 warns that targets can track orbit cycles and avoid being seen. (ISR Operations, slides 39, 40, 41)"
+  },
+  {
+    "id": 14,
+    "difficulty": "hard",
+    "category": "ISR Operations",
+    "lesson": "ISR Operations",
+    "tags": [
+      "IMINT",
+      "SIGINT",
+      "MASINT"
+    ],
+    "prompt": "Analysts need broad-area imagery, intercepts complementing aerial and ground SIGINT, and emitter type and location. Which mapping is correct?",
+    "options": [
+      "IMINT, SIGINT, MASINT",
+      "SIGINT, IMINT, MASINT",
+      "MASINT, SIGINT, IMINT",
+      "IMINT, MASINT, SIGINT"
+    ],
+    "answer": 0,
+    "explanation": "Slides 41-43 describe each space-based discipline. (ISR Operations, slides 41, 42, 43)"
+  },
+  {
+    "id": 15,
+    "difficulty": "hard",
+    "category": "ISR Operations",
+    "lesson": "ISR Operations",
+    "tags": [
+      "space-based benefits",
+      "commercial imagery",
+      "company UAS"
+    ],
+    "prompt": "A staff needs a denied area covered, imagery shared with a partner, and near-real-time video. Which mapping fits?",
+    "options": [
+      "Company UAS, space-based ISR, commercial imagery",
+      "Commercial imagery, company UAS, space-based ISR",
+      "Space-based ISR, commercial imagery, company UAS",
+      "Space-based ISR, company UAS, commercial imagery"
+    ],
+    "answer": 2,
+    "explanation": "Slides 44-45 support this mapping. (ISR Operations, slides 44, 45)"
+  },
+  {
+    "id": 16,
+    "difficulty": "hard",
+    "category": "ISR Operations",
+    "lesson": "ISR Operations",
+    "tags": [
+      "satellite orbit",
+      "SIGINT"
+    ],
+    "prompt": "A staff over-relies on satellites for worldwide coverage. Which two cautions fit the lesson?",
+    "options": [
+      "Imagery is blurred, and commercial imagery is classified",
+      "Satellites cannot see large areas, and targets ignore orbits",
+      "Space SIGINT works alone, and orbits are unpredictable",
+      "Targets can track orbits, and space SIGINT works with aerial and ground SIGINT"
+    ],
+    "answer": 3,
+    "explanation": "Slides 41-42 give both cautions. (ISR Operations, slides 41, 42)"
+  },
+  {
+    "id": 17,
+    "difficulty": "hard",
+    "category": "ISR Operations",
+    "lesson": "ISR Operations",
+    "tags": [
+      "timeliness",
+      "fusion",
+      "accuracy"
+    ],
+    "prompt": "Three reports show a late delivery, a single-source assessment, and a wrong identification. Which principles failed, in order?",
+    "options": [
+      "Timeliness, fusion, accuracy",
+      "Fusion, timeliness, accuracy",
+      "Accuracy, fusion, timeliness",
+      "Timeliness, accuracy, fusion"
+    ],
+    "answer": 0,
+    "explanation": "Slides 49-51 define these principles. (ISR Operations, slides 49, 50, 51)"
+  },
+  {
+    "id": 18,
+    "difficulty": "hard",
+    "category": "ISR Operations",
+    "lesson": "ISR Operations",
+    "tags": [
+      "fusion",
+      "accuracy"
+    ],
+    "prompt": "Which change best improves both accuracy and fusion when identifying a convoy?",
+    "options": [
+      "Report immediately from the IMINT sighting alone so that the commander receives the information sooner",
+      "Wait until the entire region has been covered before reporting anything about the convoy",
+      "Corroborate the IMINT sighting with SIGINT and HUMINT before reporting it",
+      "Restrict reporting to one sensor for security so that fewer sources can be compromised"
+    ],
+    "answer": 2,
+    "explanation": "Slides 50-51 support corroboration across sources. (ISR Operations, slides 50, 51)"
+  },
+  {
+    "id": 19,
+    "difficulty": "hard",
+    "category": "ISR Operations",
+    "lesson": "ISR Operations",
+    "tags": [
+      "timeliness"
+    ],
+    "prompt": "Proposal X skips processing to send raw feeds instantly. Proposal Y collects, processes and disseminates promptly. Which reflects timeliness?",
+    "options": [
+      "Y, because timeliness covers timely collection, processing and dissemination together",
+      "X, because dissemination is the only step of the intelligence flow that timeliness concerns",
+      "X, because processing always harms timeliness and should be dropped from every ISR flow",
+      "Y, because timeliness applies to collection only and dissemination is a separate matter"
+    ],
+    "answer": 0,
+    "explanation": "Slide 49 names collection, processing and dissemination. (ISR Operations, slide 49)"
+  },
+  {
+    "id": 20,
+    "difficulty": "hard",
+    "category": "ISR Operations",
+    "lesson": "ISR Operations",
+    "tags": [
+      "coverage",
+      "persistence",
+      "flexibility"
+    ],
+    "prompt": "A commander needs the whole area watched, monitoring over days, and quick redirection when the enemy moves. Which principles match, in order?",
+    "options": [
+      "Persistence, coverage, flexibility",
+      "Coverage, persistence, flexibility",
+      "Flexibility, persistence, coverage",
+      "Coverage, flexibility, persistence"
+    ],
+    "answer": 1,
+    "explanation": "Slides 52-54 define these principles. (ISR Operations, slides 52, 53, 54)"
+  },
+  {
+    "id": 21,
+    "difficulty": "hard",
+    "category": "ISR Operations",
+    "lesson": "ISR Operations",
+    "tags": [
+      "flexibility",
+      "coverage"
+    ],
+    "prompt": "A commander redirects sensors after intelligence shows a new enemy route, leaving the old sector unwatched. What should the staff say?",
+    "options": [
+      "Redirecting violates persistence entirely and the sensors must be moved back to the old sector at once",
+      "Redirecting fits flexibility, but the plan should still strive for coverage of the area of interest",
+      "Coverage is met because watching the new route alone satisfies the whole area of interest",
+      "Flexibility means the old sector no longer matters once new intelligence has appeared"
+    ],
+    "answer": 1,
+    "explanation": "Slides 52 and 54 support both flexibility and coverage. (ISR Operations, slides 52, 54)"
+  },
+  {
+    "id": 22,
+    "difficulty": "hard",
+    "category": "ISR Operations",
+    "lesson": "ISR Operations",
+    "tags": [
+      "persistence"
+    ],
+    "prompt": "A cell samples a village once a week while enemy movements happen between visits. Which gap and fix fit?",
+    "options": [
+      "Coverage: add more villages to the weekly sampling plan so that a larger area is visited",
+      "Interoperability: adopt allied radios so that the cell can share its weekly findings faster",
+      "Persistence: sustained, continuous monitoring to detect changes and movements",
+      "Security: conceal the weekly visits so that the enemy does not notice the cell sampling the village"
+    ],
+    "answer": 2,
+    "explanation": "Slide 53 defines persistence as continuous monitoring over time. (ISR Operations, slide 53)"
+  },
+  {
+    "id": 23,
+    "difficulty": "hard",
+    "category": "ISR Operations",
+    "lesson": "ISR Operations",
+    "tags": [
+      "security",
+      "interoperability"
+    ],
+    "prompt": "An allied liaison asks for raw feeds from a sensitive asset. Which approach fits the lesson?",
+    "options": [
+      "Drop security measures entirely so that interoperability with allies is maximized",
+      "Refuse all coordination with allies so that security of the assets is maximized",
+      "Coordinate with allies while applying strict security to sensitive information and assets",
+      "Let ethics override both"
+    ],
+    "answer": 2,
+    "explanation": "Slides 55-56 support both principles together. (ISR Operations, slides 55, 56)"
+  },
+  {
+    "id": 24,
+    "difficulty": "hard",
+    "category": "ISR Operations",
+    "lesson": "ISR Operations",
+    "tags": [
+      "ethical considerations",
+      "coverage"
+    ],
+    "prompt": "Better coverage would require collection outside the rules of engagement. What does the lesson support?",
+    "options": [
+      "Ethical considerations govern: collection must follow law, rules of engagement and moral principles",
+      "Coverage overrides because comprehensive coverage of the area of interest is the objective of ISR",
+      "Timeliness overrides because current information matters more than the rules governing collection",
+      "Fusion overrides because combining more sources is better than staying within the rules of engagement"
+    ],
+    "answer": 0,
+    "explanation": "Slide 57 places collection under law and rules of engagement. (ISR Operations, slides 52, 57)"
+  },
+  {
+    "id": 25,
+    "difficulty": "hard",
+    "category": "ISR Operations",
+    "lesson": "ISR Operations",
+    "tags": [
+      "security",
+      "interoperability",
+      "ethical considerations"
+    ],
+    "prompt": "A feed is compromised, allied units cannot read its format, and collection broke the law. Which principles failed, in order?",
+    "options": [
+      "Interoperability, security, ethical considerations",
+      "Ethical considerations, security, interoperability",
+      "Security, ethical considerations, interoperability",
+      "Security, interoperability, ethical considerations"
+    ],
+    "answer": 3,
+    "explanation": "Slides 55-57 define these principles. (ISR Operations, slides 55, 56, 57)"
+  },
+  {
+    "id": 26,
+    "difficulty": "hard",
+    "category": "Armor Operations",
+    "lesson": "Armor Operations",
+    "tags": [
+      "armor definition",
+      "armor mission",
+      "internal security operations"
+    ],
+    "prompt": "A brigade commander in Mindanao wants a force that attacks mounted in protected vehicles, combines fire and maneuver at the decisive time and place, and may also be tasked with ISO in peacetime. Which assessment of armor is accurate?",
+    "options": [
+      "Armor fights mounted in armor-protected vehicles and uses controlled fire and maneuver, but it is barred from ISO in peacetime",
+      "Armor fights as a pure tank force without other arms, relies on shock effect alone, and conducts ISO only when attached",
+      "Armor fights mounted in armor-protected vehicles, uses controlled fire and maneuver, and may conduct ISO when higher HQ requires",
+      "Armor fights from protected static positions, relies on massed indirect fire, and conducts ISO only during wartime"
+    ],
+    "answer": 2,
+    "explanation": "Page 13 defines armor as a combined arms force fighting mounted in armor-protected vehicles, conducting operations by fire and maneuver combined and controlled; page 14 says it may also conduct ISO, independently or in a task force, in peacetime as required by higher headquarters. (Armor Operations, pages 13, 14)"
+  },
+  {
+    "id": 27,
+    "difficulty": "hard",
+    "category": "Armor Operations",
+    "lesson": "Armor Operations",
+    "tags": [
+      "sub-components of armor",
+      "unit missions"
+    ],
+    "prompt": "A staff assigns three missions: (1) reconnaissance, surveillance and security; (2) neutralize the enemy by fire, maneuver and shock effect; (3) close with the enemy to destroy or capture him. Which units match, in order?",
+    "options": [
+      "Tank, cavalry, mechanized infantry",
+      "Mechanized infantry, tank, cavalry",
+      "Cavalry, mechanized infantry, tank",
+      "Cavalry, tank, mechanized infantry"
+    ],
+    "answer": 3,
+    "explanation": "Pages 16-18 give these three missions. (Armor Operations, pages 16, 17, 18)"
+  },
+  {
+    "id": 28,
+    "difficulty": "hard",
+    "category": "Armor Operations",
+    "lesson": "Armor Operations",
+    "tags": [
+      "armor operation",
+      "shock effect"
+    ],
+    "prompt": "An S3 argues that armor operations succeed through shock effect alone. Which flaw does the lesson expose?",
+    "options": [
+      "Shock effect is not part of the armor mission at all; armor relies only on dismounted fire and maneuver to win",
+      "Armor operations depend mainly on armor protection, so firepower, mobility and shock effect are all secondary",
+      "Shock effect belongs only to cavalry, so tanks and mechanized infantry should rely on fire and maneuver alone",
+      "Shock effect works only with fire and maneuver, combined and controlled, and in coordination with other arms"
+    ],
+    "answer": 3,
+    "explanation": "Page 13 says armor operations are conducted by fire and maneuver, combined and controlled to create a preponderance of combat power; page 14 says armor neutralizes the enemy by fire, maneuver and shock effect in coordination with other arms. (Armor Operations, pages 13, 14)"
+  },
+  {
+    "id": 29,
+    "difficulty": "hard",
+    "category": "Armor Operations",
+    "lesson": "Armor Operations",
+    "tags": [
+      "characteristics of armor",
+      "armor protection",
+      "communication",
+      "mobility"
+    ],
+    "prompt": "After an exercise, a Philippine Army armor company is scored: crews survived small arms and machine gun fire, the radio net failed during maneuver, and the vehicles kept pace over varied terrain. Which assessment fits the lesson?",
+    "options": [
+      "Armor protection was degraded, intensive and flexible communication held, and mobility held",
+      "Armor protection held, intensive and flexible communication was degraded, and mobility held",
+      "Armor protection held, intensive and flexible communication held, and mobility was degraded",
+      "Armor protection and mobility were degraded, while intensive and flexible communication held"
+    ],
+    "answer": 1,
+    "explanation": "Page 20 names all three characteristics. (Armor Operations, page 20)"
+  },
+  {
+    "id": 30,
+    "difficulty": "hard",
+    "category": "Armor Operations",
+    "lesson": "Armor Operations",
+    "tags": [
+      "characteristics of armor",
+      "firepower",
+      "mobility",
+      "armor protection"
+    ],
+    "prompt": "A planner links vehicle features to characteristics: the 25 mm cannon, the amphibious M113A2 hull, and Level 4 ballistic protection on the Sabrah. Which linkage is correct?",
+    "options": [
+      "Mobility, firepower, armor protection",
+      "Armor protection, mobility, firepower",
+      "Firepower, armor protection, mobility",
+      "Firepower, mobility, armor protection"
+    ],
+    "answer": 3,
+    "explanation": "Pages 20, 73, 75 and 82 support this linkage. (Armor Operations, pages 20, 73, 75, 82)"
+  },
+  {
+    "id": 31,
+    "difficulty": "hard",
+    "category": "Armor Operations",
+    "lesson": "Armor Operations",
+    "tags": [
+      "platoon organization",
+      "AIFV"
+    ],
+    "prompt": "A mechanized infantry platoon has 1 officer and 37 enlisted; the HQ has 1 officer and 10 enlisted and the three squads are equal. How many enlisted are in each squad, and how many AIFVs does the platoon use?",
+    "options": [
+      "12 enlisted per squad; three AIFVs",
+      "9 enlisted per squad; four AIFVs",
+      "10 enlisted per squad; four AIFVs",
+      "9 enlisted per squad; three AIFVs"
+    ],
+    "answer": 1,
+    "explanation": "Page 25 gives 37 - 10 = 27, or 9 per squad; page 27 gives four AIFVs. (Armor Operations, pages 25, 27)"
+  },
+  {
+    "id": 32,
+    "difficulty": "hard",
+    "category": "Armor Operations",
+    "lesson": "Armor Operations",
+    "tags": [
+      "dismount team",
+      "responsibilities"
+    ],
+    "prompt": "During a dismount near an enemy-held barangay, a Philippine Army squad's dismount team moves into a ditch while the AIFV driver waits to be told where to position the vehicle. The carrier team leader and the squad leader each assume the other will decide. Per the dismounting SOPs, who is responsible?",
+    "options": [
+      "The squad leader or platoon leader, who answers for both the dismount team's maneuver and the AV's position",
+      "The carrier team leader, who places the AV, while the squad leader controls only the dismount team's maneuver",
+      "The driver, who positions the AV on his own initiative, since speed is of the essence during the dismount",
+      "The company first sergeant, as resource manager, who positions all AVs while the squad leaders maneuver"
+    ],
+    "answer": 0,
+    "explanation": "Page 31 says the SL or PL is responsible for both the maneuver of the dismount team and the positioning of the AV. The first sergeant appears in the lesson only as a possible resource manager in planning (page 69). (Armor Operations, pages 31, 69)"
+  },
+  {
+    "id": 33,
+    "difficulty": "hard",
+    "category": "Armor Operations",
+    "lesson": "Armor Operations",
+    "tags": [
+      "company organization",
+      "AIFV"
+    ],
+    "prompt": "A Philippine Army mechanized infantry company commander must know his dismounted strength. Each squad has 9 enlisted, and each squad's carrier team is the normal three-man crew that stays with the AIFV. Counting only the squads, how many soldiers dismount across the company's three platoons?",
+    "options": [
+      "18, since six soldiers in each of the three squads dismount",
+      "81, since every squad member dismounts and leaves the AIFV",
+      "54, since six of nine enlisted dismount in each of nine squads",
+      "72, since only the driver stays and eight soldiers per squad dismount"
+    ],
+    "answer": 2,
+    "explanation": "Page 25 gives three squads of 9 enlisted per platoon and page 24 three platoons per company, or nine squads. Page 26 says the carrier team is normally the carrier team leader, gunner and driver, so six per squad dismount: 9 x 6 = 54. Eighteen is the count for one platoon only. (Armor Operations, pages 24, 25, 26)"
+  },
+  {
+    "id": 34,
+    "difficulty": "hard",
+    "category": "Armor Operations",
+    "lesson": "Armor Operations",
+    "tags": [
+      "mounted vs dismounted",
+      "capabilities"
+    ],
+    "prompt": "A platoon must assault unprepared, suppressed defenses, infiltrate along a trail vehicles cannot use, and fix the enemy so tanks can maneuver. Which allocation matches the lesson?",
+    "options": [
+      "Assault dismounted; infiltrate mounted; fix mounted",
+      "Assault mounted; infiltrate and fix dismounted",
+      "Assault, infiltrate and fix all mounted",
+      "Assault, infiltrate and fix all dismounted"
+    ],
+    "answer": 1,
+    "explanation": "Pages 28-29 list the mounted and dismounted capabilities. (Armor Operations, pages 28, 29)"
+  },
+  {
+    "id": 35,
+    "difficulty": "hard",
+    "category": "Armor Operations",
+    "lesson": "Armor Operations",
+    "tags": [
+      "limitations of mechanized infantry"
+    ],
+    "prompt": "Enemy mortars range the only road while AIFVs halt so squads can dismount. Which limitations combine here?",
+    "options": [
+      "AVs are restricted to certain avenues, infantry need time to dismount, and dismounted infantry are vulnerable to indirect fire",
+      "AIFVs are more vulnerable than tanks, AVs are restricted to certain avenues, and the infantry are safe once they dismount",
+      "AVs may use any avenue of approach, infantry need sufficient time to dismount, and small arms fire is the only risk to them",
+      "AIFVs and APCs are as protected as tanks, so the halt is safe, but dismounted infantry are vulnerable to indirect fire"
+    ],
+    "answer": 0,
+    "explanation": "Page 30 lists that AVs are restricted to certain avenues of approach, infantrymen need sufficient time to mount and dismount, and dismounted infantrymen are vulnerable to small arms and indirect fire; it also says AIFVs and APCs are more vulnerable than tanks. (Armor Operations, page 30)"
+  },
+  {
+    "id": 36,
+    "difficulty": "hard",
+    "category": "Armor Operations",
+    "lesson": "Armor Operations",
+    "tags": [
+      "planning considerations",
+      "limitations"
+    ],
+    "prompt": "A commander says mechanized infantry are tanks with legs and will lead an assault against enemy tanks. Which flaw does the lesson show?",
+    "options": [
+      "Mechanized infantry may lead because mounted AIFVs can destroy light armor vehicles and maneuver with tanks",
+      "Mechanized infantry can be used against tank units if the infantry dismount and fix the enemy for the assault",
+      "Mechanized infantry cannot be used against tank units, and AIFVs and APCs are more vulnerable than tanks",
+      "Mechanized infantry lack the firepower to support tanks, so they should be kept out of every armored attack"
+    ],
+    "answer": 2,
+    "explanation": "Page 69 says mechanized infantry cannot be used against tank units, and page 30 says AIFVs and APCs are more vulnerable than tanks. Destroying light armor vehicles and maneuvering with tanks (page 28) do not extend to fighting tank units. (Armor Operations, pages 28, 30, 69)"
+  },
+  {
+    "id": 37,
+    "difficulty": "hard",
+    "category": "Armor Operations",
+    "lesson": "Armor Operations",
+    "tags": [
+      "mount under fire",
+      "mounting SOP",
+      "mount order"
+    ],
+    "prompt": "A Philippine Army squad dismounted in order, soldiers 1 to 8, to clear a checkpoint. As they remount, the enemy opens fire from the right of the AIFV. Which drill and boarding sequence follow the lesson?",
+    "options": [
+      "Mount from the right under fire from the right; soldier 1 boards first, one at a time, with cover provided",
+      "Mount from the left under fire from the right; all eight rush the door together, since speed is of the essence",
+      "Mount from the right under fire from the left; soldier 8 boards first, one at a time, with cover provided",
+      "Mount from the left under fire from the right; soldier 8 boards first, one at a time, with cover provided"
+    ],
+    "answer": 3,
+    "explanation": "Page 50 shows mount from the left (under fire from the right). Page 31 says the first to dismount is the last to mount, so soldier 8 boards first; page 45 requires cover while others mount and moving in one at a time without piling up at the door. (Armor Operations, pages 31, 45, 50)"
+  },
+  {
+    "id": 38,
+    "difficulty": "hard",
+    "category": "Armor Operations",
+    "lesson": "Armor Operations",
+    "tags": [
+      "mount under fire"
+    ],
+    "prompt": "A squad remounts from the right while under fire from the left. Which actions comply with the SOPs?",
+    "options": [
+      "Rush the door together, keep weapons loaded with muzzles up inside, and close the ramp after the last soldier",
+      "Provide cover while others mount, avoid piling at the door, move in one at a time, clear weapons and muzzles down",
+      "Wait until the enemy fire stops, then have riders climb on top of the AV to watch the left flank during the move",
+      "Board in the same order the squad dismounted, take cover behind the AV, then mount when the cover team is ready"
+    ],
+    "answer": 1,
+    "explanation": "Page 45 lists the mounting SOPs; page 49 shows mounting from the right under fire from the left. Page 31 forbids riders on top and hiding behind an AV, and says the first to dismount is the last to mount. (Armor Operations, pages 31, 45, 49)"
+  },
+  {
+    "id": 39,
+    "difficulty": "hard",
+    "category": "Armor Operations",
+    "lesson": "Armor Operations",
+    "tags": [
+      "mount procedures",
+      "mounting SOP"
+    ],
+    "prompt": "A Philippine Army platoon sergeant drafts mounting drill cards for: mount, mount from the right, mount from the right (under fire from the left), and mount from the left (under fire from the right). A squad leader checks the cards against the lesson's mounting procedures and SOPs. Which correction is right?",
+    "options": [
+      "Add mount from the left; every card must also require cover while others mount and weapons cleared, muzzles down, inside",
+      "Add mount from the left (under fire from the left); every card must also require cover while others mount and loaded weapons",
+      "Remove the basic mount, as every mount uses one side; every card must also require weapons cleared, muzzles down, inside",
+      "No card is missing; the four cover every case, and every card must have the first soldier out be the first back in"
+    ],
+    "answer": 0,
+    "explanation": "Pages 46-50 give five mounting procedures: mount, mount from the right, mount from the left, mount from the right (under fire from the left) and mount from the left (under fire from the right). Page 45 requires cover while others mount and clearing weapons, muzzles down, once inside; page 31 says the first to dismount is the last to mount. (Armor Operations, pages 31, 45, 46, 47, 48, 49, 50)"
+  },
+  {
+    "id": 40,
+    "difficulty": "hard",
+    "category": "Armor Operations",
+    "lesson": "Armor Operations",
+    "tags": [
+      "cavalry fundamentals",
+      "capabilities"
+    ],
+    "prompt": "A brigade commander gives a cavalry troop a zone reconnaissance as flank guard while keeping the main body concentrated for the decisive point. Which fundamentals support this?",
+    "options": [
+      "Main effort, since cavalry attacks to overrun prepared defenses and so frees the main body to stay in reserve",
+      "Rear security and resupply of the main body, so the brigade's combat power can be spread along its whole flank",
+      "Economy of force, eyes and ears for situational awareness, and concentration of combat power at the decisive point",
+      "Reserve and counterattack roles, since cavalry must first be reinforced before it can operate as a flank guard"
+    ],
+    "answer": 2,
+    "explanation": "Page 53 calls cavalry the commander's eyes and ears and says it helps him concentrate superior combat power at the decisive time and point; page 54 describes its economy of force role; page 60 lists moving to contact as flank guard as zone reconnaissance, without reinforcement. (Armor Operations, pages 53, 54, 60)"
+  },
+  {
+    "id": 41,
+    "difficulty": "hard",
+    "category": "Armor Operations",
+    "lesson": "Armor Operations",
+    "tags": [
+      "separate cavalry troop",
+      "limitations"
+    ],
+    "prompt": "A separate cavalry troop with a light brigade must cover a flank through dense forest, steep ridges and a major river, with a stretched supply line. Which statement fits the lesson?",
+    "options": [
+      "It works for the division commander as a heavy unit, and dense forest and rivers do not restrict its mobility",
+      "It works for the brigade commander as a heavy unit, since separate troops are heavy whatever the brigade type",
+      "It works for the division commander as a light unit, and its light design keeps logistics requirements low",
+      "It works for the brigade commander as a light unit, and high logistics needs and restricted mobility limit it"
+    ],
+    "answer": 3,
+    "explanation": "Page 58 says the separate troop is part of a separate light or armored brigade, heavy or light according to the brigade, and operates for the brigade commander; page 61 lists high logistics requirements and terrain-restricted mobility. (Armor Operations, pages 58, 61)"
+  },
+  {
+    "id": 42,
+    "difficulty": "hard",
+    "category": "Armor Operations",
+    "lesson": "Armor Operations",
+    "tags": [
+      "cavalry organization"
+    ],
+    "prompt": "In terrain suitable for cavalry, a Philippine Army brigade commander gives his cavalry squadron three tasks: attack to penetrate a prepared enemy strong point, hold a wide sector in an economy of force role without reinforcement during a delay, and move to contact as the advance covering force. Which assessment matches the lesson?",
+    "options": [
+      "All three are cavalry capabilities, applying its inherent combined arms mobility, firepower and shock effect",
+      "Only the move to contact fits; armor may assault only unprepared, suppressed defenses, not prepared strong points",
+      "Only the attack and move to contact fit; an economy of force role in a delay needs the squadron to be reinforced",
+      "None fits; cavalry is limited to reconnaissance, surveillance and security and must avoid attacks and delays"
+    ],
+    "answer": 0,
+    "explanation": "Page 60 says that in suitable terrain cavalry can operate in economy of force without being reinforced in offensive, defensive or delay operations, move to contact as part of the advance covering force, and attack to overrun, penetrate or envelop prepared enemy defenses or strong points. Assaulting unprepared, suppressed defenses is a mounted mechanized infantry capability (page 28). (Armor Operations, pages 28, 60)"
+  },
+  {
+    "id": 43,
+    "difficulty": "hard",
+    "category": "Armor Operations",
+    "lesson": "Armor Operations",
+    "tags": [
+      "tank capabilities",
+      "anti-tank fires",
+      "CSS"
+    ],
+    "prompt": "A Philippine Army tank platoon is attached to an infantry battalion for a several-day operation that includes night attacks against an enemy force with armored vehicles, on a battlefield where NBC agents may be used. Which employment and support plan matches the lesson?",
+    "options": [
+      "Tanks engage only infantry with direct fire, fight at night with thermal sights, avoid any NBC threat, and draw Classes III, V and IX from infantry trucks",
+      "Tanks engage enemy armor with accurate anti-tank fires, fight only by day, operate under NBC threat, and draw Classes III, V and IX from infantry trucks",
+      "Tanks engage enemy armor with accurate anti-tank fires, fight at night with thermal sights, operate under NBC threat, and rely on FFSU and division CSS",
+      "Tanks engage enemy armor with accurate anti-tank fires, fight at night with thermal sights, avoid any NBC threat, and rely on FFSU and division CSS"
+    ],
+    "answer": 2,
+    "explanation": "Page 66 says tanks support the close fight with accurate anti-tank fires and direct fire, operate on a conventional or NBC battlefield, and use thermal sights to enhance night fighting. Page 68 says they need FFSU and division CSS support because infantry units lack the organic transport for tank Classes III, V and IX. (Armor Operations, pages 66, 67, 68)"
+  },
+  {
+    "id": 44,
+    "difficulty": "hard",
+    "category": "Armor Operations",
+    "lesson": "Armor Operations",
+    "tags": [
+      "light tank limitations"
+    ],
+    "prompt": "A light tank must fight in extremely close terrain against infantry with anti-armor weapons and antitank mines. Which statement fits the lesson?",
+    "options": [
+      "It lacks main battle tank protection, is vulnerable to anti-armor weapons and mines, and close terrain restricts it",
+      "It matches main battle tank protection and resists mines, but extremely close terrain restricts its mobility",
+      "It lacks main battle tank protection, but close terrain improves its firepower against infantry with anti-armor weapons",
+      "Its armor protects it from small arms, machine guns and anti-armor weapons, so only its mobility is restricted"
+    ],
+    "answer": 0,
+    "explanation": "Page 67 says the light tank lacks the protection of a main battle tank and that tanks are vulnerable to infantry with anti-armor weapons and antitank mines; page 68 says mobility and firepower are restricted in extremely close terrain. (Armor Operations, pages 67, 68)"
+  },
+  {
+    "id": 45,
+    "difficulty": "hard",
+    "category": "Armor Operations",
+    "lesson": "Armor Operations",
+    "tags": [
+      "tank planning considerations"
+    ],
+    "prompt": "A Philippine Army tank platoon in an SBF position overwatches a mechanized infantry company assaulting an objective. Enemy armored vehicles then appear on the flank. Which plan matches the lesson?",
+    "options": [
+      "The mechanized infantry turn their AIFVs on the enemy armor, while the tanks keep firing on the objective from the SBF",
+      "The tanks engage the enemy armor, using a planned surface danger zone and direct fire control measures to protect the assault",
+      "The tanks withdraw from the SBF to avoid the enemy armor, and the cavalry is called forward to engage it instead",
+      "The tanks stay on the objective and leave the enemy armor to indirect fire, since tanks should not fight other armor"
+    ],
+    "answer": 1,
+    "explanation": "Page 71 lists SBF positions, surface danger zone and direct fire control measures as tank planning considerations and says tanks can be used against other tanks or any armored vehicle of the enemy. Pages 69 and 70 say mechanized infantry and cavalry cannot be used against tank units. (Armor Operations, pages 69, 70, 71)"
+  },
+  {
+    "id": 46,
+    "difficulty": "hard",
+    "category": "Armor Operations",
+    "lesson": "Armor Operations",
+    "tags": [
+      "mechanized infantry planning",
+      "weapon range",
+      "avenue of approach"
+    ],
+    "prompt": "A Philippine Army mechanized infantry company commander's planning checklist reads: where to dismount troops, objective to combat trains distance, Ex-O or First Sergeant as resource manager, and no employment against tank units. Facing a narrow valley road toward an enemy with long-range weapons, he finds two lesson items missing. Which are they?",
+    "options": [
+      "Surface danger zone and SBF positions",
+      "Weapon range and avenue of approach restrictions",
+      "Indirect fire weapon support and distance from main body",
+      "Security operations and cover against enemy air"
+    ],
+    "answer": 1,
+    "explanation": "Page 69 lists six mechanized infantry considerations: where to dismount, weapon range, objective to combat trains distance, Ex-O or First Sergeant as resource manager, avenue of approach restrictions, and no use against tank units. The other pairs come from the cavalry (page 70) and tank (page 71) lists. (Armor Operations, pages 69, 70, 71)"
+  },
+  {
+    "id": 47,
+    "difficulty": "hard",
+    "category": "Armor Operations",
+    "lesson": "Armor Operations",
+    "tags": [
+      "planning considerations"
+    ],
+    "prompt": "A staff matches considerations to units: Ex-O as resource manager and objective-to-combat-trains distance; indirect fire weapon support and distance from main body; surface danger zone and SBF positions. Which units, in order?",
+    "options": [
+      "Cavalry, tank, mechanized infantry",
+      "Tank, mechanized infantry, cavalry",
+      "Mechanized infantry, cavalry, tank",
+      "Mechanized infantry, tank, cavalry"
+    ],
+    "answer": 2,
+    "explanation": "Pages 69-71 list the considerations per unit. (Armor Operations, pages 69, 70, 71)"
+  },
+  {
+    "id": 48,
+    "difficulty": "hard",
+    "category": "Armor Operations",
+    "lesson": "Armor Operations",
+    "tags": [
+      "road march",
+      "cruising range",
+      "amphibious"
+    ],
+    "prompt": "A Philippine Army task force plans a long road march with M113A2 APCs, Commando V-150S and Simba vehicles, refuelling only when the shortest-ranged vehicle must, and ending at a river with no bridge. Which planning assessment matches the lesson's data sheets?",
+    "options": [
+      "The V-150S's 644 km range sets the refuel point; the Simba (100 kph) outpaces the M113A2 (66 kph); only the M113A2 is fully amphibious",
+      "The M113A2's 482.80 km range sets the refuel point; the M113A2 (72 kph) outpaces the Simba (66 kph); all three are fully amphibious",
+      "The M113A2's 482.80 km range sets the refuel point; the Simba (100 kph) outpaces the M113A2 (66 kph); it and the V-150S are amphibious",
+      "The Simba's 660 km range sets the refuel point; the Simba (100 kph) outpaces the M113A2 (66 kph); the M113A2 and Simba are amphibious"
+    ],
+    "answer": 2,
+    "explanation": "Page 73 gives the M113A2 a 482.80 km road range, 66 kph forward speed and a fully amphibious hull (3 mph in water); page 79 gives the V-150S 644 km and a fully amphibious hull; page 80 gives the Simba 100 kph and 660 km and lists no amphibious capability. (Armor Operations, pages 73, 79, 80)"
+  },
+  {
+    "id": 49,
+    "difficulty": "hard",
+    "category": "Armor Operations",
+    "lesson": "Armor Operations",
+    "tags": [
+      "AIFV",
+      "M113A2 UTS",
+      "25 mm"
+    ],
+    "prompt": "A Philippine Army mechanized battalion fields both the AIFV (230 rounds in its EWS, 1,610 stowed) and the M113A2 IFV with the Unmanned Turret System. At a gunnery review, the S3 must state what the two 25 mm systems share and what sets the AIFV apart. Which statement matches the lesson?",
+    "options": [
+      "Both: HE 1,100 m/s, AP 1,325 m/s, 3,000 m max effective; only the AIFV: 260 hp turbocharged 6V53T and direct attack on aircraft up to 1.5 km",
+      "Both: HE 1,100 m/s, AP 1,325 m/s, 3,000 m max effective; only the UTS: 260 hp turbocharged 6V53T and direct attack on aircraft up to 1.5 km",
+      "Both: HE 1,325 m/s, AP 1,100 m/s, 6,800 m max effective; only the AIFV: 260 hp turbocharged 6V53T and direct attack on aircraft up to 1.5 km",
+      "Both: HE 1,100 m/s, AP 1,325 m/s, 1,700 m max effective; only the AIFV: 212 hp turbocharged 6V53T and direct attack on aircraft up to 2.5 km"
+    ],
+    "answer": 0,
+    "explanation": "Pages 75 and 76 give both 25 mm cannons HE 1,100 m/s, AP 1,325 m/s and a 3,000 m maximum effective range (6,800 m is maximum range; 1,700 m is the RCWS, page 74). Page 76 gives only the AIFV the 260 hp turbocharged 6V53T (the UTS uses the M113A2's 212 hp 6V53, page 73) and credits its Oerlikon KBA with downing low-flying aircraft at 2 km and attacking aircraft directly up to 1.5 km. (Armor Operations, pages 73, 74, 75, 76)"
+  },
+  {
+    "id": 50,
+    "difficulty": "hard",
+    "category": "Armor Operations",
+    "lesson": "Armor Operations",
+    "tags": [
+      "M113A2 variants",
+      "Mounted Mortar System",
+      "Ambulance"
+    ],
+    "prompt": "A Philippine Army battalion S4 plans fuel and engines for its M113A2 APC (Ambulance), Mounted Mortar System and Fire Support Vehicle. The MMS's smooth bore, muzzle-loaded, recoiling 81/120 mm mortar, designed from CARDOM combat experience, is laid by an auto-laying Electronic Drive System that may fail. Which assessment matches the lesson?",
+    "options": [
+      "All use a 260 hp Detroit Diesel 6V53T with 360 L of fuel; the ambulance is fully amphibious; the mortar then lays only by Fire Control System",
+      "All use a 212 hp Detroit Diesel 6V53 with 300 L of fuel; the ambulance is a wheeled vehicle; the mortar then lays manually by back-up handles and optical sight",
+      "All use a 212 hp Detroit Diesel 6V53 with 360 L of fuel; the ambulance carries only casualties; the mortar must then be withdrawn from action until repaired",
+      "All use a 212 hp Detroit Diesel 6V53 with 360 L of fuel; the ambulance is fully amphibious; the mortar then lays manually by back-up handles and optical sight"
+    ],
+    "answer": 3,
+    "explanation": "Pages 77, 78 and 81 give the MMS, ambulance and FSV the M113A2's 212 hp Detroit Diesel 6V53 and 360 L of fuel (page 73); the 260 hp 6V53T is the AIFV (page 76) and 300 L the V-150S (page 79). Page 78 lists the ambulance as a fully amphibious troop or cargo carrier; page 77 says the MMS can be laid manually using back-up handles and an optical sight unit. (Armor Operations, pages 73, 76, 77, 78, 79, 81)"
+  },
+  {
+    "id": 51,
+    "difficulty": "hard",
+    "category": "Field Artillery Operations",
+    "lesson": "Field Artillery Operations",
+    "tags": [
+      "mission",
+      "destroy/neutralize/suppress mission",
+      "integration of fire-support means",
+      "fire-support cells",
+      "fire-support elements",
+      "command and control of additional artillery"
+    ],
+    "prompt": "A Philippine Army brigade is planning a landing on fictional Pulo Tagak. Some enemy positions must be destroyed, while others need only neutralization or suppression during the short landing window. Mortars, naval guns, and attack helicopters will join the supporting artillery battalion. The staff proposes that artillery plan destruction fires only and leave all integration of fire support to a naval liaison officer. Which objection by the artillery commander best follows the lesson?",
+    "options": [
+      "The artillery should command the mortars, naval guns, and helicopters, because it commands and controls additional fire-support units.",
+      "The artillery mission is complete once the enemy is destroyed, so integration becomes a concern if its destruction fires fail.",
+      "The artillery mission uses timely, accurate fires to destroy, neutralize, or suppress as needed and includes assisting integration of all fire-support means through the fire-support cell.",
+      "Naval guns count as additional artillery, so the battalion should control them while the liaison officer handles the helicopters."
+    ],
+    "answer": 2,
+    "explanation": "Slide 15 gives artillery the mission of timely, accurate fires to destroy, neutralize, or suppress according to the need and of assisting integration of all fire-support means. Slide 16 has artillery establish the nucleus of supported fire-support cells. Its command-and-control function covers additional field artillery units, not naval guns or aviation; destruction alone and liaison-only integration both omit part of the mission. (Field Artillery Operations, slides 15, 16)"
+  },
+  {
+    "id": 52,
+    "difficulty": "hard",
+    "category": "Field Artillery Operations",
+    "lesson": "Field Artillery Operations",
+    "tags": [
+      "functions",
+      "continuous fire support",
+      "communications",
+      "survey",
+      "meteorological data",
+      "mobility",
+      "communications failure"
+    ],
+    "prompt": "A Philippine Army field artillery battalion will support a brigade through a three-day operation across a chain of small islands and must provide continuous fire support. To save effort, the brigade offers to take over the battalion's survey, meteorological data, and radio communications, although the brigade's own radio net failed repeatedly during rehearsals. Which response best fits the artillery functions in the lesson?",
+    "options": [
+      "Retain its own communications, survey, and meteorological data; these artillery functions sustain continuous, accurate, timely fires.",
+      "Accept the offer, because the artillery function is limited to firing and support activities belong to the supported brigade.",
+      "Accept the brigade's survey and meteorology but keep radio communications, because communications is the function that governs responsiveness.",
+      "Accept the offer for the first day and reclaim the three functions only if the brigade's radio net fails again during the operation."
+    ],
+    "answer": 0,
+    "explanation": "Slide 16 lists providing continuous, accurate, and timely fires and providing the artillery's own component communication, mobility, survey, meteorological data, target acquisition, and fire direction. Slide 37 adds that responsiveness relies on reliable communication, and slide 36 ties survey and MET to accuracy, so none of these can be handed to a net that is already failing. (Field Artillery Operations, slides 16, 36, 37)"
+  },
+  {
+    "id": 53,
+    "difficulty": "hard",
+    "category": "Field Artillery Operations",
+    "lesson": "Field Artillery Operations",
+    "tags": [
+      "attack at depth",
+      "interdiction",
+      "add depth to the battlefield",
+      "disrupt",
+      "close support",
+      "maneuver timing"
+    ],
+    "prompt": "A Philippine Army brigade will attack at dawn. An enemy reserve battalion waits behind a mountain ridge that keeps its primary weapons from firing on friendly units, but it could move to counterattack within hours. The brigade commander wants the reserve's movement held back long enough for the attack to reach its objective. Which role-and-effect pairing best fits the commander's aim?",
+    "options": [
+      "Close support to destroy the reserve now, because the reserve is already firing on the brigade's lead units.",
+      "Counterfires to neutralize the reserve, because reserves form part of the total enemy fire-support system.",
+      "Attack at depth to divert the reserve, drawing its attention away from the brigade's principal attack.",
+      "Attack at depth to disrupt and delay the reserve, opening a window for the brigade's maneuver."
+    ],
+    "answer": 3,
+    "explanation": "Slide 17 describes attack at depth against forces that, because of range limitation or intervening terrain, cannot fire their primary weapons on friendly forces, using fires to disrupt, delay, and destroy them and create windows for offensive maneuver; slide 18 credits artillery with adding this depth. The reserve is not firing and is not a fire-support element, and slide 28 describes diversion as drawing attention from the principal operation, not delaying a reserve. (Field Artillery Operations, slides 17, 18, 28)"
+  },
+  {
+    "id": 54,
+    "difficulty": "hard",
+    "category": "Field Artillery Operations",
+    "lesson": "Field Artillery Operations",
+    "tags": [
+      "counterfires",
+      "target acquisition",
+      "observers and collectors",
+      "drones and vertical imagery",
+      "FA intelligence"
+    ],
+    "prompt": "Enemy guns have been shelling a Philippine Army battalion across a wide sector. Sound-and-flash reports and drone imagery now also locate enemy forward observers and an enemy fire-direction post. The division commander wants enemy fires reduced across the whole sector, not only from the gun that fired most recently. Which targeting approach best matches both the tactical role and the commander's intent?",
+    "options": [
+      "Close support against the single gun that fired last, since it is the element directly threatening the battalion.",
+      "Counterfires against the located guns, observers, and fire-direction post as parts of the enemy fire-support system.",
+      "Attack at depth against the observers and fire-direction post, since neither can fire a primary weapon at friendly troops.",
+      "Hold fires until drone imagery confirms each gun, since sound-and-flash reports are not artillery information collectors."
+    ],
+    "answer": 1,
+    "explanation": "Slide 17 defines counterfires as fires targeted throughout the battlefield to attack the total enemy fire-support system, which covers guns, observers, and fire direction together. Slide 33 lists sound, flash, and drones among the common collectors for artillery intelligence, and attack at depth concerns forces kept from firing on friendly forces by range or terrain. (Field Artillery Operations, slides 17, 33)"
+  },
+  {
+    "id": 55,
+    "difficulty": "hard",
+    "category": "Field Artillery Operations",
+    "lesson": "Field Artillery Operations",
+    "tags": [
+      "close support",
+      "support forces in contact",
+      "rapid shifting and massing",
+      "defensive positioning",
+      "continuity of fires"
+    ],
+    "prompt": "A Philippine Army brigade is defending a coastal town, and its supporting battery is positioned to the rear as planned. Enemy troops penetrate the forward line and fire on a company, which immediately requests artillery. The battery is midway through a planned mission against enemy forces massing far to the north, and its guns can reach both targets from where they stand. Which response best applies the lesson?",
+    "options": [
+      "Complete the northern mission first, since a planned mission takes precedence over an unplanned request.",
+      "Displace the battery forward toward the company before firing, since supporting fires must come from well-forward positions.",
+      "Shift fires promptly to close support of the company from the current position, since shifting does not require displacement.",
+      "Treat the penetration as counterfire work, since enemy troops inside the line form part of the enemy fire-support system."
+    ],
+    "answer": 2,
+    "explanation": "Slide 17 assigns close support to enemy troops threatening the force, and slide 31 requires fires to be responsive when a supported unit requests them. Slide 18 allows fires to shift rapidly without displacing, and slide 38 places defensive artillery to the rear precisely so fires continue in the event of a penetration. (Field Artillery Operations, slides 17, 18, 31, 38)"
+  },
+  {
+    "id": 56,
+    "difficulty": "hard",
+    "category": "Field Artillery Operations",
+    "lesson": "Field Artillery Operations",
+    "tags": [
+      "all-weather and all-terrain fires",
+      "rapid shifting and massing",
+      "observers and collectors",
+      "drones and vertical imagery",
+      "meteorological data",
+      "target acquisition"
+    ],
+    "prompt": "A typhoon grounds a Philippine Army task force's drones and aircraft for two days while its infantry remains in contact in rugged terrain. The artillery battalion's MET section can still provide current data, and ground observers remain with the forward companies. A staff officer recommends suspending artillery support until drone imagery returns. Which recommendation best fits the lesson?",
+    "options": [
+      "Continue fires through the storm, using ground observers to locate targets and current MET data for accuracy.",
+      "Suspend fires until the weather clears, because drone imagery is the lesson's required source of target information.",
+      "Continue fires, but move the guns before engaging each new target, since weather prevents shifting fires.",
+      "Continue fires, but limit them to suppression, since storm conditions make MET data unusable for predicted fires."
+    ],
+    "answer": 0,
+    "explanation": "Slide 18 states that artillery can provide fires under all conditions of weather and in all types of terrain, and can shift fires without displacing. Slide 33 lists ground observers among the most common collectors alongside drones, and slide 36 makes MET information one of the requirements for accurate predicted fires; the stem confirms that current MET data remain available. (Field Artillery Operations, slides 18, 33, 36)"
+  },
+  {
+    "id": 57,
+    "difficulty": "hard",
+    "category": "Field Artillery Operations",
+    "lesson": "Field Artillery Operations",
+    "tags": [
+      "point-target ammunition cost",
+      "ammunition economy",
+      "suppress",
+      "shell/fuze variety",
+      "weapon/ammunition combinations",
+      "maneuver timing"
+    ],
+    "prompt": "A single enemy bunker blocks a Philippine Army platoon that must clear a trail junction within 30 minutes. Ammunition resupply across the strait is delayed by rough seas, and the battery's stocks must last until the next landing. The platoon leader needs the bunker's fire kept down only while the platoon moves past. Which fire plan best balances the lesson's capabilities and limitations?",
+    "options": [
+      "Fire a destruction mission until the bunker is permanently out of action, since destruction gives the platoon the most lasting protection.",
+      "Decline the mission until resupply arrives, since artillery cannot engage a point target economically.",
+      "Mass the whole battalion on the bunker, since rapid massing removes the ammunition cost of destroying point targets.",
+      "Suppress the bunker with a suitable shell-and-fuze combination for the movement window, conserving ammunition."
+    ],
+    "answer": 3,
+    "explanation": "Slide 19 warns that destroying point targets requires considerable ammunition expenditure, and slide 27 describes suppression as temporary degradation below the level needed to accomplish the mission. Slides 18 and 35 support selecting a suitable shell-and-fuze or weapon/ammunition combination, and massing does not remove the point-target limitation. (Field Artillery Operations, slides 18, 19, 27, 35)"
+  },
+  {
+    "id": 58,
+    "difficulty": "hard",
+    "category": "Field Artillery Operations",
+    "lesson": "Field Artillery Operations",
+    "tags": [
+      "detectable firing signature",
+      "limited self-defense",
+      "continuous support by judicious displacement",
+      "counterfire exposure",
+      "rapid shifting and massing"
+    ],
+    "prompt": "A Philippine Army battery has fired many missions from one position, and enemy drones have been seen overhead. The supported battalion will need fires again within the hour, and the battery has no dedicated security or air-defense element nearby. Which course of action best weighs the battery's exposure against the battalion's need for support?",
+    "options": [
+      "Remain in place, since artillery can shift and mass its fires without displacing and so has no reason to move.",
+      "Displace judiciously to an alternate position, timing the move so fires are ready when the battalion needs them.",
+      "Cease firing until the drones depart, since a silent position presents no firing signature to detect.",
+      "Stay and defend the position, since artillery fires under all conditions and can protect itself from attack."
+    ],
+    "answer": 1,
+    "explanation": "Slide 19 says the firing signature makes artillery vulnerable to detection by enemy target acquisition and that its self-defense against ground or air attack is limited. Slide 18 credits continuous support through judicious displacement; the ability to shift fires without displacing does not remove the detection risk, and falling silent abandons the battalion's stated need. (Field Artillery Operations, slides 18, 19)"
+  },
+  {
+    "id": 59,
+    "difficulty": "hard",
+    "category": "Field Artillery Operations",
+    "lesson": "Field Artillery Operations",
+    "tags": [
+      "classification by caliber",
+      "classification by transport",
+      "light",
+      "medium",
+      "heavy",
+      "towed",
+      "self-propelled",
+      "aerial",
+      "island movement"
+    ],
+    "prompt": "For a Philippine Army inter-island move, the first vessel can carry only medium-caliber weapons that are classified as towed. The movement list gives five weapons with their caliber and transport classification: 120 mm towed, 121 mm towed, 160 mm self-propelled, 210 mm towed, and 121 mm aerial. Which weapon or weapons belong on the first vessel?",
+    "options": [
+      "The 121 mm towed and 121 mm aerial weapons",
+      "The 121 mm towed and 210 mm towed weapons",
+      "The 121 mm towed weapon only",
+      "The 121 mm towed and 160 mm self-propelled weapons"
+    ],
+    "answer": 2,
+    "explanation": "Slide 20 places medium caliber at 121 through 160 mm: the 121 mm towed, 160 mm self-propelled, and 121 mm aerial candidates meet that caliber condition, while 120 mm is light and 210 mm is heavy. Slide 21 classifies transport separately. The medium-caliber aerial and self-propelled weapons are not towed, leaving only the 121 mm towed weapon. (Field Artillery Operations, slides 20, 21)"
+  },
+  {
+    "id": 60,
+    "difficulty": "hard",
+    "category": "Field Artillery Operations",
+    "lesson": "Field Artillery Operations",
+    "tags": [
+      "classification by caliber",
+      "classification by transport",
+      "light",
+      "medium",
+      "towed",
+      "self-propelled",
+      "communications",
+      "radio and digital communications"
+    ],
+    "prompt": "A Philippine Army battalion communications plan assumes that every firing unit uses the same radio. One battery has 105 mm towed weapons and the other has 155 mm self-propelled weapons. Before issuing radios for an island operation, the signal officer must record each battery's caliber class, transport class, and issued radio as the lesson describes. Which record is correct?",
+    "options": [
+      "105 mm: light, towed, Harris; 155 mm: medium, self-propelled, Harris",
+      "105 mm: light, towed, Harris; 155 mm: heavy, self-propelled, manet",
+      "105 mm: medium, towed, Harris; 155 mm: medium, self-propelled, manet",
+      "105 mm: light, towed, Harris; 155 mm: medium, self-propelled, manet"
+    ],
+    "answer": 3,
+    "explanation": "Slide 20 makes 120 mm and less light and 121 through 160 mm medium. Slide 21 classifies self-propelled separately from towed, and slide 37 states that artillery units are issued Harris radios except the 155 mm self-propelled unit, which is equipped with manet radio. (Field Artillery Operations, slides 20, 21, 37)"
+  },
+  {
+    "id": 61,
+    "difficulty": "hard",
+    "category": "Field Artillery Operations",
+    "lesson": "Field Artillery Operations",
+    "tags": [
+      "neutralize",
+      "10-percent computed-effect threshold",
+      "destroy",
+      "30-percent computed-effect threshold",
+      "suppress",
+      "3-percent computed-effect threshold",
+      "ammunition economy",
+      "maneuver timing"
+    ],
+    "prompt": "A Philippine Army company will cross a river under observation from an enemy weapons position on the far ridge. The crossing takes only a short time, and ammunition must be conserved for the next phase. The commander needs the position unable to interfere with the crossing while it lasts, but does not need it out of action for a long period. Which planned effect and computed minimum best match this requirement?",
+    "options": [
+      "Neutralize, planning for at least 10-percent computed casualties or materiel damage",
+      "Destroy, planning for at least 30 percent so the position cannot recover before the crossing",
+      "Suppress, planning for at least 10 percent because suppression also lasts only a short time",
+      "Neutralize, planning for at least 3 percent because the effect is needed for a brief crossing"
+    ],
+    "answer": 0,
+    "explanation": "Slide 26 describes neutralization as rendering the enemy incapable of interfering with a particular operation and gives a computed minimum of 10 percent. Slide 25's 30-percent destruction exceeds the stated need and spends scarce ammunition. Slide 27 states 3 percent as the computed minimum for suppression; 10 percent is not its stated minimum, even though a higher computed effect could also suppress. (Field Artillery Operations, slides 25, 26, 27)"
+  },
+  {
+    "id": 62,
+    "difficulty": "hard",
+    "category": "Field Artillery Operations",
+    "lesson": "Field Artillery Operations",
+    "tags": [
+      "disrupt",
+      "diversion",
+      "defeat",
+      "destroy"
+    ],
+    "prompt": "A Philippine Army task force has a short fire-support window before its principal landing on fictional Isla Maragat. Enemy reserves remain able to fight, but a river line and obstacles on the coast road offer a chance to break their timetable. A feint on a neighboring island could draw enemy attention and forces away. The desired end state is that the island's defenders lose the physical means or will to fight; there is no evidence of 30-percent damage. Which fire plan should the cell recommend for this window?",
+    "options": [
+      "Use route fires as diversion, the island feint as disruption, and report defeat only after 30-percent damage.",
+      "Concentrate all fires on destroying the reserves, omit the feint, and call any withdrawal defeat.",
+      "Use fires with terrain and obstacles to disrupt reserve timing, the feint to divert forces from the landing, and loss of means or will to judge defeat.",
+      "Call the route fires defeat, use the feint for diversion, and report destruction if defenders cease resisting."
+    ],
+    "answer": 2,
+    "explanation": "Slide 28 supports using fires with terrain and obstacles to disrupt reserve tempo during the short window, a feint to divert attention and forces from the landing, and loss of physical means or will to judge defeat. Slide 25 requires physical combat-ineffectiveness and at least 30-percent computed damage for destruction, which the scenario does not establish. A withdrawal alone does not establish defeat. (Field Artillery Operations, slides 25, 28)"
+  },
+  {
+    "id": 63,
+    "difficulty": "hard",
+    "category": "Field Artillery Operations",
+    "lesson": "Field Artillery Operations",
+    "tags": [
+      "destroy",
+      "30-percent computed-effect threshold",
+      "point-target ammunition cost",
+      "detectable firing signature",
+      "counterfires",
+      "ammunition economy",
+      "target acquisition"
+    ],
+    "prompt": "Philippine Army target acquisition locates a single enemy radar vehicle that has been detecting friendly batteries by their firing signatures. The division wants it out of action for a long period so it cannot support the enemy's next phase, but the battalion's ammunition for the week is limited. Which planning statement best reflects the lesson?",
+    "options": [
+      "Plan neutralization at 10 percent, since a short interruption will keep the radar from locating the batteries.",
+      "Plan destruction at 30 percent and budget considerable ammunition, since the radar is a point target.",
+      "Plan suppression at 3 percent, since some degradation of the radar will protect the batteries for the week.",
+      "Plan destruction at 30 percent with a small allocation, since massing fires removes the point-target cost."
+    ],
+    "answer": 1,
+    "explanation": "Slide 25 ties destruction to putting a target out of action permanently or for a long period, with at least 30-percent computed damage. Slide 19 warns that destroying point targets takes considerable ammunition, and attacking an enemy acquisition asset that exploits the firing signature is part of counterfires against the enemy fire-support system under slide 17. (Field Artillery Operations, slides 17, 19, 25)"
+  },
+  {
+    "id": 64,
+    "difficulty": "hard",
+    "category": "Field Artillery Operations",
+    "lesson": "Field Artillery Operations",
+    "tags": [
+      "defeat",
+      "destroy",
+      "30-percent computed-effect threshold",
+      "diversion",
+      "suppress",
+      "observers and collectors"
+    ],
+    "prompt": "After a Philippine Army battalion's artillery preparation, the computed estimate for an enemy company shows 12-percent casualties and materiel damage. Observers report that the company withdrew from the objective with most weapons still serviceable. Intercepted orders then direct its surviving crews to resume resistance, but the crews refuse and say they will no longer fight. The brigade asks how to report the effect. Which label is best supported?",
+    "options": [
+      "Destruction, because giving up the objective shows the company is out of action for a long period",
+      "Diversion, because the company's attention and forces were drawn away from the objective",
+      "Suppression, because a 12-percent estimate indicates a temporary drop in performance",
+      "Defeat, because the company has lost the will to fight"
+    ],
+    "answer": 3,
+    "explanation": "Slide 28 describes defeat as temporary or permanent loss of the physical means or will to fight. The crews' explicit refusal to resume resistance despite serviceable weapons supplies evidence of lost will; withdrawal alone would not. Slide 25 requires physical combat-ineffectiveness and at least 30-percent computed damage for destruction, which the 12-percent estimate does not reach. Diversion concerns drawing attention from a principal operation, while suppression describes temporary degraded performance rather than this stated refusal. (Field Artillery Operations, slides 25, 27, 28)"
+  },
+  {
+    "id": 65,
+    "difficulty": "hard",
+    "category": "Field Artillery Operations",
+    "lesson": "Field Artillery Operations",
+    "tags": [
+      "Philippine archipelago",
+      "rapid displacement between islands",
+      "continuity during displacement",
+      "continuous support by judicious displacement",
+      "mobility",
+      "mobility assets",
+      "island movement",
+      "continuity of fires"
+    ],
+    "prompt": "A Philippine Army artillery battalion must move from Tambuli Island to neighboring Isla Maragat, where a brigade lands tomorrow, while the brigade still on Tambuli remains in contact for two more days. The battalion's KM450, KM250, and M35 vehicles and a landing craft are available. Which movement plan best satisfies the lesson's archipelagic requirement?",
+    "options": [
+      "Move in echelons, keeping part of the battalion firing on Tambuli while an element with fire direction and radios crosses.",
+      "Move the entire battalion tonight in one lift, since the lesson's requirement is speed of displacement between islands.",
+      "Keep the entire battalion on Tambuli until contact there ends, since displacement must not disrupt ongoing operations.",
+      "Send the guns across first and bring fire direction and radios only after the fighting on Tambuli ends."
+    ],
+    "answer": 0,
+    "explanation": "Slide 29 requires artillery to displace rapidly from one area or island to another without disrupting multidimensional operations, and slide 18 credits continuous support through judicious displacement. Slide 37 identifies the vehicles as mobility assets and ties responsiveness to reliable communication, and slide 34 makes fire direction the system's brain, so guns alone would not be ready for the landing. (Field Artillery Operations, slides 18, 29, 34, 37)"
+  },
+  {
+    "id": 66,
+    "difficulty": "hard",
+    "category": "Field Artillery Operations",
+    "lesson": "Field Artillery Operations",
+    "tags": [
+      "Philippine archipelago",
+      "survey",
+      "common survey grid",
+      "rapid shifting and massing",
+      "five requirements for accurate predicted fires",
+      "Headquarters and Headquarters Battery",
+      "survey and MET accuracy"
+    ],
+    "prompt": "After a rapid Philippine Army displacement, one battery fires from Isla Maragat while two batteries remain on Tambuli Island. Each island's batteries were located using a different local reference, and current MET data are already available to all three. The battalion now wants to mass all three batteries on a landing-beach target between the islands. Which step should come first?",
+    "options": [
+      "Mass immediately, since artillery can shift and mass fires rapidly without a requirement to displace.",
+      "Rely on the current MET data, since meteorology is the requirement that makes massed predicted fires accurate.",
+      "Have the survey section place all three batteries on one common grid of location and direction.",
+      "Move the Tambuli batteries to Isla Maragat, since massing fires requires the batteries to share one island."
+    ],
+    "answer": 2,
+    "explanation": "Slide 36 states that survey provides a common grid of location and direction for the accurate delivery and massing of fires, and that the survey section belongs to Headquarters and Headquarters Battery. MET is only one of five requirements for accurate predicted fires, slide 18's massing capability does not create a shared grid, and slide 29 does not require batteries to share one island. (Field Artillery Operations, slides 18, 29, 36)"
+  },
+  {
+    "id": 67,
+    "difficulty": "hard",
+    "category": "Field Artillery Operations",
+    "lesson": "Field Artillery Operations",
+    "tags": [
+      "support forces in contact",
+      "support the concept of operations",
+      "economize resources",
+      "ammunition economy",
+      "maneuver timing"
+    ],
+    "prompt": "A Philippine Army brigade's concept of operations reserves most of the battery's ammunition for fires at H-hour on the main objective. Two hours earlier, a flank company in contact requests fires against a small enemy team firing on it. Answering with a full preparation would consume the H-hour allocation. Which response best satisfies the basic tasks?",
+    "options": [
+      "Fire the full preparation for the company, since support to forces in contact outranks the concept of operations.",
+      "Answer the company promptly with a limited mission and keep the H-hour allocation for the main objective.",
+      "Refuse the request, since the concept of operations commits the battery's ammunition to the main objective.",
+      "Delay the company's mission until after H-hour, then use whatever ammunition remains to support it."
+    ],
+    "answer": 1,
+    "explanation": "Slide 31 requires fires to be responsive when requested by a supported unit and to fulfill the supported commander's objective, and it links fire support to economizing resources. A prompt, limited mission serves the company without abandoning the concept; the other choices sacrifice one task entirely or delay the requested support. (Field Artillery Operations, slide 31)"
+  },
+  {
+    "id": 68,
+    "difficulty": "hard",
+    "category": "Field Artillery Operations",
+    "lesson": "Field Artillery Operations",
+    "tags": [
+      "synchronize fire support",
+      "economize resources",
+      "integration of fire-support means",
+      "ammunition economy"
+    ],
+    "prompt": "In a Philippine Army brigade attack up the fictional Kalumpang valley, the draft fire plan assigns artillery, mortars, and attack helicopters to the same trench line at the same time, while an enemy machine-gun post on the flanking spur has no fire assigned. A washed-out road limits artillery resupply. Which revision best applies the lesson's basic tasks?",
+    "options": [
+      "Synchronize the plan by distributing the available fire-support assets across both targets to economize and maximize effect.",
+      "Keep every asset on the trench line, since massing all fires on one target produces the greatest effect.",
+      "Remove the mortars and helicopters so the artillery alone engages both targets without coordinating other assets.",
+      "Keep the plan but raise the artillery's ammunition allocation, since sustainment corrects duplicated fires."
+    ],
+    "answer": 0,
+    "explanation": "Slide 31 requires artillery fires to be synchronized with other available fire-support assets to economize resources while maximizing effect, and slide 15 includes integrating all fire-support means in the mission. Stacking three assets on one line while a threat goes unengaged fails that task; an artillery-only plan or extra ammunition does not address it. (Field Artillery Operations, slides 15, 31)"
+  },
+  {
+    "id": 69,
+    "difficulty": "hard",
+    "category": "Field Artillery Operations",
+    "lesson": "Field Artillery Operations",
+    "tags": [
+      "sustain FA operations",
+      "logistics",
+      "mobility assets",
+      "all-weather and all-terrain fires",
+      "island movement"
+    ],
+    "prompt": "A Philippine Army battery commander deployed on a small island stops sending ammunition and fuel status reports, reasoning that battalion logistics will notice any shortage. After three days of firing, the battery runs low just as the supported battalion begins its main effort. Which assessment best reflects the lesson?",
+    "options": [
+      "Battalion logistics alone failed, since sustaining artillery is a higher-headquarters function that batteries do not share.",
+      "The mobility element failed, since vehicles such as the KM450 and M35 exist to carry resupply to firing units.",
+      "No task failed, since artillery can fire under all conditions and its capability does not depend on supply.",
+      "The battery commander shares the sustainment task, since commanders at all levels must sustain artillery units."
+    ],
+    "answer": 3,
+    "explanation": "Slide 31 makes sustaining artillery operations a basic task for commanders at all levels, and slide 37 describes logistics support as designed to sustain artillery operations while mobility assets serve unit mission accomplishment. The battery commander cannot hand the whole task to battalion, and the all-weather capability of slide 18 does not remove supply needs. (Field Artillery Operations, slides 18, 31, 37)"
+  },
+  {
+    "id": 70,
+    "difficulty": "hard",
+    "category": "Field Artillery Operations",
+    "lesson": "Field Artillery Operations",
+    "tags": [
+      "target acquisition",
+      "Target Acquisition Platoon",
+      "FA intelligence",
+      "FA Regiment and FA Bn intelligence office",
+      "observers and collectors",
+      "drones and vertical imagery",
+      "fire direction center",
+      "call-for-fire conversion",
+      "Headquarters and Headquarters Battery"
+    ],
+    "prompt": "In a large Philippine Army multi-brigade operation, an observer's sound-and-flash location and drone imagery point to different enemy firing positions. Brigade wants fire commands quickly, but an inaccurate location would waste the short fire-support window. Which response resolves the conflicting target information while keeping artillery-intelligence work and call-for-fire conversion with the appropriate elements?",
+    "options": [
+      "Have the fire direction center reconcile the locations, then make the Target Acquisition Platoon convert the observer's call while the intelligence office only relays reports.",
+      "Have the Signal Platoon determine the target location, the intelligence office convert the call, and the fire direction center relay the resulting commands.",
+      "Use the Target Acquisition Platoon to collect, process, and disseminate accurately located target information; the FA Regiment and FA Bn Intelligence Office remains the principal artillery-intelligence unit in this large operation, then the fire direction center converts the observer's call into commands.",
+      "Send the first drone image straight to the fire direction center for commands and resolve the conflicting location later through the acquisition platoon and intelligence office."
+    ],
+    "answer": 2,
+    "explanation": "Slide 33 requires timely and accurate target detection, identification, and location; it places the Target Acquisition Platoon under Headquarters and Headquarters Battery to collect, process, and disseminate target intelligence and names the FA Regiment and FA Bn Intelligence Office as the principal artillery-intelligence unit in large operations. Resolving the conflicting locations through that acquisition chain preserves accuracy. Slide 34 assigns conversion of the observer's call for fire into commands to the fire direction center, after the target information is coherent. (Field Artillery Operations, slides 33, 34)"
+  },
+  {
+    "id": 71,
+    "difficulty": "hard",
+    "category": "Field Artillery Operations",
+    "lesson": "Field Artillery Operations",
+    "tags": [
+      "fire direction center",
+      "call-for-fire conversion",
+      "fire direction and coordination",
+      "suitable weapon coverage",
+      "weapon range limits"
+    ],
+    "prompt": "A Philippine Army observer calls for fire on an enemy platoon spread across an area wider than one gun can adequately cover. The nearest single gun could fire first; the full battery is farther away but within range; a second battery is beyond its specified range. Which fire-direction decision best reflects the lesson?",
+    "options": [
+      "Assign the nearest single gun, since the quickest response is what fire coordination seeks.",
+      "Convert the call into commands for the full battery, a group of weapons suited to cover the target.",
+      "Convert the call into commands for both batteries, since massing overrides the second battery's range limit.",
+      "Return the call to the observer, since converting a call into fire commands is the observer's responsibility."
+    ],
+    "answer": 1,
+    "explanation": "Slide 34 makes the fire direction center responsible for converting the observer's call into fire commands and defines fire coordination as covering targets adequately with a suitable weapon or group of weapons. Slide 19 limits weapons to targets within their specified range, so the out-of-range battery cannot contribute. (Field Artillery Operations, slides 19, 34)"
+  },
+  {
+    "id": 72,
+    "difficulty": "hard",
+    "category": "Field Artillery Operations",
+    "lesson": "Field Artillery Operations",
+    "tags": [
+      "ballistic meteorology",
+      "meteorological data",
+      "five requirements for accurate predicted fires",
+      "communications",
+      "communications failure",
+      "radio and digital communications",
+      "Signal Platoon",
+      "Headquarters and Headquarters Battery",
+      "survey and MET accuracy"
+    ],
+    "prompt": "A Philippine Army battalion plans predicted night fires against targets that no observer can see. Its MET section in Headquarters and Headquarters Battery has current data, but the voice and digital radio link between the MET section and the fire direction center keeps failing. Which action best protects the accuracy of the planned fires?",
+    "options": [
+      "Restore reliable communication so the current MET data reach the fire direction center before firing.",
+      "Proceed on the survey grid alone, since survey and MET both belong to the same headquarters battery.",
+      "Proceed without MET data, since artillery can provide fires under all conditions of weather.",
+      "Have the Target Acquisition Platoon estimate MET data, since it is the eyes and ears of the system."
+    ],
+    "answer": 0,
+    "explanation": "Slide 36 states that ballistic meteorological data are necessary for accurate fires and that MET information is one of five requirements for accurate predicted fires. Slide 37 ties effectiveness to reliable radio communication and places the Signal Platoon under Headquarters and Headquarters Battery; survey, the all-weather capability, and target acquisition each serve different purposes. (Field Artillery Operations, slides 18, 33, 36, 37)"
+  },
+  {
+    "id": 73,
+    "difficulty": "hard",
+    "category": "Field Artillery Operations",
+    "lesson": "Field Artillery Operations",
+    "tags": [
+      "organization",
+      "FA platoon smallest deployable unit",
+      "command and support relationships",
+      "island movement"
+    ],
+    "prompt": "A Philippine Army infantry company will hold a small outlying island for a week, and the brigade wants the smallest artillery commitment the lesson supports. The staff also debates whether the artillery needs any formal relationship with the company if it is simply located nearby. Which plan best matches the lesson?",
+    "options": [
+      "Send one gun section attached informally, since a single weapon is the easiest load for a landing craft.",
+      "Send an FA platoon with no set relationship, since being nearby is enough to coordinate its fires.",
+      "Send an FA platoon with an established command or support relationship to the company.",
+      "Send an FA battery under the company's command, since platoons are not deployed apart from their batteries."
+    ],
+    "answer": 2,
+    "explanation": "Slide 35 states that an FA platoon is the smallest artillery unit deployed to provide fire support to maneuver units, and that establishing command and/or support relationships with maneuver units gives accurate fusion of indirect-fire capacities for effective, economical delivery of fires. (Field Artillery Operations, slide 35)"
+  },
+  {
+    "id": 74,
+    "difficulty": "hard",
+    "category": "Field Artillery Operations",
+    "lesson": "Field Artillery Operations",
+    "tags": [
+      "employment tactics",
+      "offensive positioning",
+      "defensive positioning",
+      "continuity of fires",
+      "rapid shifting and massing"
+    ],
+    "prompt": "A Philippine Army brigade has seized its objective with its supporting artillery battalion positioned well forward. Intelligence now warns of a strong enemy counterattack that may penetrate the new line, and the brigade shifts to the defense. Which repositioning decision best follows the lesson?",
+    "options": [
+      "Stay well forward, since the battalion must keep exploiting its weapons' range against the counterattack.",
+      "Push farther forward to meet the counterattack at depth before it reaches the brigade's new line.",
+      "Hold the current positions, since the battalion can shift and mass fires without repositioning.",
+      "Reposition toward the rear, so the battalion's fires can continue if the enemy penetrates the line."
+    ],
+    "answer": 3,
+    "explanation": "Slide 38 makes the supported unit's mission the basis of artillery employment: forward positions suit the offense, while in the defense the supporting unit is positioned at the rear to ensure continuity of fires in the event of enemy penetration. Slide 18's ability to shift fires without displacing does not change that defensive requirement. (Field Artillery Operations, slides 18, 38)"
+  },
+  {
+    "id": 75,
+    "difficulty": "hard",
+    "category": "Field Artillery Operations",
+    "lesson": "Field Artillery Operations",
+    "tags": [
+      "employment tactics",
+      "offensive positioning",
+      "limited self-defense",
+      "detectable firing signature",
+      "counterfire exposure",
+      "continuous support by judicious displacement",
+      "weapon range limits",
+      "maneuver timing"
+    ],
+    "prompt": "A Philippine Army brigade launches an attack deep across a fictional province. The supporting battery commander, citing artillery's limited self-defense and detectable firing signature, proposes staying in rear positions throughout the attack, although the lead units will soon move beyond the battery's range from those positions. Which decision best integrates the lesson?",
+    "options": [
+      "Stay in the rear, since rearward positions are what protect the continuity of fires.",
+      "Position well forward to support the attack and exploit range, displacing judiciously to limit exposure.",
+      "Stay in the rear and mass fires on nearer targets, since massing makes up for the lost range.",
+      "Move forward only after the attack ends, since firing during the advance would reveal the battery's signature."
+    ],
+    "answer": 1,
+    "explanation": "Slide 38 states that the supported unit's mission dictates employment and that in the offense artillery is positioned well forward to support the attack and exploit the range of its weapons. Slide 19's self-defense and signature limitations are real, but slide 18's continuous support by judicious displacement manages exposure without abandoning the attack; rear positioning is the defensive pattern, and slide 19 limits fires to specified range. (Field Artillery Operations, slides 18, 19, 38)"
+  },
+  {
+    "id": 76,
+    "difficulty": "hard",
+    "category": "Army Operations",
+    "lesson": "Army Operations",
+    "tags": [
+      "operational platforms",
+      "combined arms"
+    ],
+    "prompt": "A task force commander in a high-intensity urban conflict integrates infantry for building clearance, armor for street-level suppression, and engineers for obstacle breaching simultaneously. This approach seeks an effect greater than the sum of its parts. Which operational platform is being utilized?",
+    "options": [
+      "Combined Arms",
+      "Joint Operations",
+      "Combined Operations",
+      "Multinational Operations"
+    ],
+    "answer": 0,
+    "explanation": "This concept involves the synchronized application of different Army-specific arms like infantry, armor, and engineers to achieve a synergistic effect."
+  },
+  {
+    "id": 77,
+    "difficulty": "hard",
+    "category": "Army Operations",
+    "lesson": "Army Operations",
+    "tags": [
+      "constitutional mandate"
+    ],
+    "prompt": "Which specific constitutional mandate serves as the primary legal justification for Philippine Army operations within national territory according to Article II of the 1987 Constitution?",
+    "options": [
+      "The State shall provide social justice in all phases of development.",
+      "The Army shall conduct all-out war against insurgents.",
+      "The President is the Commander-in-Chief of all armed forces.",
+      "The AFP is the protector of the people and the State."
+    ],
+    "answer": 3,
+    "explanation": "This specific clause establishes the Armed Forces of the Philippines as the guardian of both the citizenry and the government entity."
+  },
+  {
+    "id": 78,
+    "difficulty": "hard",
+    "category": "Army Operations",
+    "lesson": "Army Operations",
+    "tags": [
+      "operational platforms",
+      "joint operations"
+    ],
+    "prompt": "A commander uses a single unified plan to coordinate Army infantry, Air Force close air support, and Navy coastal bombardment for a beach landing. This integration of multiple services is defined as:",
+    "options": [
+      "Joint Operations",
+      "Combined Arms",
+      "Combined Operations",
+      "Synchronization"
+    ],
+    "answer": 0,
+    "explanation": "Joint operations involve forces of two or more services (e.g., Army, Navy, Air Force) under the control of a single commander."
+  },
+  {
+    "id": 79,
+    "difficulty": "hard",
+    "category": "Army Operations",
+    "lesson": "Army Operations",
+    "tags": [
+      "support to civil governance"
+    ],
+    "prompt": "A unit is tasked with patrolling a village to prevent insurgent recruitment while simultaneously helping the local government restore the electricity grid. This falls under which element of Full Spectrum Operations?",
+    "options": [
+      "Offensive Operations",
+      "Defensive Operations",
+      "Combined Arms Operations",
+      "Support to Civil Governance"
+    ],
+    "answer": 3,
+    "explanation": "This element includes missions like counterinsurgency, disaster response, and support to community development and law enforcement."
+  },
+  {
+    "id": 80,
+    "difficulty": "hard",
+    "category": "Army Operations",
+    "lesson": "Army Operations",
+    "tags": [
+      "offensive tasks",
+      "exploitation"
+    ],
+    "prompt": "Following a successful breach of the enemy's front lines, a commander orders a mechanized unit to bypass remaining strongpoints to cut off the enemy's line of retreat and destroy their command and control nodes. This is an example of which primary offensive task?",
+    "options": [
+      "Exploitation",
+      "Attack",
+      "Strike",
+      "Movement to Contact"
+    ],
+    "answer": 0,
+    "explanation": "Exploitation follows a successful attack and is designed to disorganize the enemy in depth, preventing them from reconstituting a defense."
+  },
+  {
+    "id": 81,
+    "difficulty": "hard",
+    "category": "Army Operations",
+    "lesson": "Army Operations",
+    "tags": [
+      "defensive tasks",
+      "retrograde"
+    ],
+    "prompt": "To draw a superior enemy force away from a vital supply port, a battalion intentionally yields territory and retreats to a more defensible mountain ridge. This defensive task is known as:",
+    "options": [
+      "Retrograde",
+      "Area Defense",
+      "Counter-offensive",
+      "Mobile Defense"
+    ],
+    "answer": 0,
+    "explanation": "This task involves a movement away from the enemy to improve the tactical situation or draw the enemy into a less favorable position."
+  },
+  {
+    "id": 82,
+    "difficulty": "hard",
+    "category": "Army Operations",
+    "lesson": "Army Operations",
+    "tags": [
+      "offensive tasks",
+      "movement to contact"
+    ],
+    "prompt": "An insurgent group is known to be moving through a jungle corridor, but their exact location is unconfirmed. A commander orders a force to advance cautiously, ready to react to any contact. This is known as:",
+    "options": [
+      "Strike",
+      "Pursuit",
+      "Exploitation",
+      "Movement to Contact"
+    ],
+    "answer": 3,
+    "explanation": "This primary offensive task is used when the enemy's location is vague, aimed at establishing contact and developing the situation."
+  },
+  {
+    "id": 83,
+    "difficulty": "hard",
+    "category": "Army Operations",
+    "lesson": "Army Operations",
+    "tags": [
+      "defensive tasks",
+      "mobile defense"
+    ],
+    "prompt": "A battalion is tasked with defending a large valley. Instead of staying in fixed trenches, the commander uses a small mobile force to strike the enemy's flanks whenever they attempt to bypass. This is known as:",
+    "options": [
+      "Movement to Contact",
+      "Retrograde",
+      "Area Defense",
+      "Mobile Defense"
+    ],
+    "answer": 3,
+    "explanation": "This defensive task uses a combination of static forces to fix the enemy and striking forces to destroy them through maneuver."
+  },
+  {
+    "id": 84,
+    "difficulty": "hard",
+    "category": "Army Operations",
+    "lesson": "Army Operations",
+    "tags": [
+      "support to civil governance",
+      "disaster response operations"
+    ],
+    "prompt": "A unit is deployed to a region following an earthquake to conduct Search and Rescue (SAR) and distribute food. According to the Army Operations Manual (PAM 3-00), this is categorized as:",
+    "options": [
+      "Civil Population Security",
+      "Non-Critical Support Operations",
+      "Disaster Response Operations",
+      "Peace Operations"
+    ],
+    "answer": 2,
+    "explanation": "This is a specific mission set under Support to Civil Governance that involves mitigating the effects of natural or man-made calamities."
+  },
+  {
+    "id": 85,
+    "difficulty": "hard",
+    "category": "Army Operations",
+    "lesson": "Army Operations",
+    "tags": [
+      "initiative"
+    ],
+    "prompt": "In a defensive engagement, a battalion commander identifies that the enemy has overextended their supply lines. The commander immediately launches a localized counter-attack to throw the enemy into chaos. This action most closely aligns with which tenet of Army operations?",
+    "options": [
+      "Versatility",
+      "Initiative",
+      "Synchronization",
+      "Depth"
+    ],
+    "answer": 1,
+    "explanation": "This tenet focuses on setting the terms of battle and forcing the enemy to respond to your actions, even while in a defensive posture."
+  },
+  {
+    "id": 86,
+    "difficulty": "hard",
+    "category": "Army Operations",
+    "lesson": "Army Operations",
+    "tags": [
+      "versatility"
+    ],
+    "prompt": "The Philippine Army conducts a mission to provide immediate relief and medical support following a major typhoon while simultaneously maintaining security to prevent looting. This multi-tasking capability across different mission profiles defines which tenet?",
+    "options": [
+      "Versatility",
+      "Agility",
+      "Depth",
+      "Synchronization"
+    ],
+    "answer": 0,
+    "explanation": "This tenet describes the ability of Army forces to meet diverse mission requirements and shift rapidly from one type of operation to another."
+  },
+  {
+    "id": 87,
+    "difficulty": "hard",
+    "category": "Army Operations",
+    "lesson": "Army Operations",
+    "tags": [
+      "synchronization"
+    ],
+    "prompt": "An operational plan for a river crossing requires that the arrival of bridging engineers, the suppression of enemy fire by artillery, and the overhead cover by aviation all occur at exactly H−hour. This arrangement is an example of:",
+    "options": [
+      "Mass",
+      "Unity of Command",
+      "Synchronization",
+      "Maneuver"
+    ],
+    "answer": 2,
+    "explanation": "This tenet involves the arrangement of battlefield activities in time, space, and purpose to mass effects at the decisive point."
+  },
+  {
+    "id": 88,
+    "difficulty": "hard",
+    "category": "Army Operations",
+    "lesson": "Army Operations",
+    "tags": [
+      "depth"
+    ],
+    "prompt": "When an Army force extends its operations across a large geographical area and sustains them over a long period to keep the enemy constantly under pressure, they are demonstrating which tenet?",
+    "options": [
+      "Synchronization",
+      "Versatility",
+      "Agility",
+      "Depth"
+    ],
+    "answer": 3,
+    "explanation": "Depth is the extension of operations in space, time, and resources to overwhelm the enemy across their entire formation and support structure."
+  },
+  {
+    "id": 89,
+    "difficulty": "hard",
+    "category": "Army Operations",
+    "lesson": "Army Operations",
+    "tags": [
+      "agility"
+    ],
+    "prompt": "A commander realizes that the enemy has shifted their heavy weaponry to the east. Within minutes, the commander adjusts the plan and moves their own armor to intercept. This shows mental and physical quickness, which is the tenet of:",
+    "options": [
+      "Synchronization",
+      "Initiative",
+      "Versatility",
+      "Agility"
+    ],
+    "answer": 3,
+    "explanation": "Agility is the mental and physical quickness to adapt to changes in the situation and stay ahead of the enemy's decision cycle."
+  },
+  {
+    "id": 90,
+    "difficulty": "hard",
+    "category": "Army Operations",
+    "lesson": "Army Operations",
+    "tags": [
+      "army power",
+      "intelligence"
+    ],
+    "prompt": "A brigade commander utilizes a network of drones and ground scouts to identify not only enemy positions but also the locations of local water sources and civilian hospitals. Which Element of Army Power is primarily being exercised?",
+    "options": [
+      "Maneuver",
+      "Protection",
+      "Intelligence",
+      "Fires"
+    ],
+    "answer": 2,
+    "explanation": "This element encompasses tasks and systems that facilitate understanding of the operational environment, including terrain, enemy, and civil considerations."
+  },
+  {
+    "id": 91,
+    "difficulty": "hard",
+    "category": "Army Operations",
+    "lesson": "Army Operations",
+    "tags": [
+      "army power",
+      "protection"
+    ],
+    "prompt": "Which Element of Army Power is specifically designed to preserve the force's integrity and combat power so the commander can apply them at the most decisive moment?",
+    "options": [
+      "Intelligence",
+      "Movement and Maneuver",
+      "Fires",
+      "Protection"
+    ],
+    "answer": 3,
+    "explanation": "This element includes tasks and systems that preserve the force from the effects of enemy power, allowing the commander to maintain operational integrity."
+  },
+  {
+    "id": 92,
+    "difficulty": "hard",
+    "category": "Army Operations",
+    "lesson": "Army Operations",
+    "tags": [
+      "objective"
+    ],
+    "prompt": "During a counterinsurgency mission, a commander decides to bypass a small group of retreating insurgents to maintain the momentum of the primary advance toward a critical provincial capital. Which principle of Army operations is the commander prioritizing?",
+    "options": [
+      "Offensive",
+      "Objective",
+      "Maneuver",
+      "Mass"
+    ],
+    "answer": 1,
+    "explanation": "This principle dictates that every military operation must be directed toward a clearly defined and attainable end state, avoiding distractions."
+  },
+  {
+    "id": 93,
+    "difficulty": "hard",
+    "category": "Army Operations",
+    "lesson": "Army Operations",
+    "tags": [
+      "economy of force"
+    ],
+    "prompt": "A commander allocates only a single platoon to guard a secondary mountain pass, accepting higher risk there to ensure the main assault force has overwhelming combat power for the primary breach. Which principle is being applied?",
+    "options": [
+      "Security",
+      "Economy of Force",
+      "Mass",
+      "Simplicity"
+    ],
+    "answer": 1,
+    "explanation": "This principle involves allocating minimum essential combat power to secondary efforts so that the maximum possible force can be concentrated at the decisive point."
+  },
+  {
+    "id": 94,
+    "difficulty": "hard",
+    "category": "Army Operations",
+    "lesson": "Army Operations",
+    "tags": [
+      "restraint"
+    ],
+    "prompt": "During a mission in a sensitive area, a unit is fired upon from a building that also houses a medical clinic. The commander denies a request for an airstrike on the building, choosing instead a high-risk ground insertion to clear the threat. Which principle is being demonstrated?",
+    "options": [
+      "Objective",
+      "Security",
+      "Restraint",
+      "Legitimacy"
+    ],
+    "answer": 2,
+    "explanation": "This principle involves limiting collateral damage and preventing the unnecessary use of force, balancing military necessity with the strategic end state."
+  },
+  {
+    "id": 95,
+    "difficulty": "hard",
+    "category": "Army Operations",
+    "lesson": "Army Operations",
+    "tags": [
+      "mass"
+    ],
+    "prompt": "What is the primary difference between 'Mass' and 'Economy of Force' in the context of the 12 Principles of Army Operations?",
+    "options": [
+      "Mass is the concentration of effects at a decisive point, while Economy of Force enables that concentration by minimizing resources used elsewhere.",
+      "Mass applies only to offensive operations, while Economy of Force applies only to defensive operations.",
+      "Mass is about the number of soldiers, while Economy of Force is about the quality of equipment.",
+      "Mass focuses on speed of movement, while Economy of Force focuses on stealth and security."
+    ],
+    "answer": 0,
+    "explanation": "These principles are two sides of the same coin: you cannot achieve mass at the critical point without economizing forces in less critical areas."
+  },
+  {
+    "id": 96,
+    "difficulty": "hard",
+    "category": "Army Operations",
+    "lesson": "Army Operations",
+    "tags": [
+      "legitimacy"
+    ],
+    "prompt": "Why is 'Legitimacy' considered a critical principle when conducting Support to Civil Governance operations, such as Counterinsurgency?",
+    "options": [
+      "It refers to the speed at which a unit can change its orders.",
+      "It maintains the legal and moral authority of the operation in the eyes of the population and the international community.",
+      "It is the principle that allows a commander to use any amount of force necessary.",
+      "It ensures the military has the newest equipment for the mission."
+    ],
+    "answer": 1,
+    "explanation": "Legitimacy is vital for long-term success in civil-centric missions as it ensures the mission is perceived as rightful and justified."
+  },
+  {
+    "id": 97,
+    "difficulty": "hard",
+    "category": "Army Operations",
+    "lesson": "Army Operations",
+    "tags": [
+      "simplicity"
+    ],
+    "prompt": "A commander ensures that all subordinate leaders have a clear, uncomplicated plan to minimize the chance of confusion during a chaotic night-time raid. Which principle is being prioritized?",
+    "options": [
+      "Unity of Command",
+      "Simplicity",
+      "Surprise",
+      "Security"
+    ],
+    "answer": 1,
+    "explanation": "Simplicity aims to reduce the friction of war by providing clear, concise orders that minimize the potential for misunderstanding in stressful environments."
+  },
+  {
+    "id": 98,
+    "difficulty": "hard",
+    "category": "Army Operations",
+    "lesson": "Army Operations",
+    "tags": [
+      "surprise"
+    ],
+    "prompt": "Which principle of Army operations warns against attacking the enemy when they are fully prepared and suggests striking them in a way they did not expect?",
+    "options": [
+      "Offensive",
+      "Surprise",
+      "Security",
+      "Maneuver"
+    ],
+    "answer": 1,
+    "explanation": "This principle involves striking the enemy at a time, place, or in a manner for which they are unprepared."
+  },
+  {
+    "id": 99,
+    "difficulty": "hard",
+    "category": "Army Operations",
+    "lesson": "Army Operations",
+    "tags": [
+      "unity of command"
+    ],
+    "prompt": "A commander insists that all assets, including civilian NGOs and local police, report to one central military officer for mission coordination. Which principle does this enforcement support?",
+    "options": [
+      "Perseverance",
+      "Mass",
+      "Unity of Command",
+      "Simplicity"
+    ],
+    "answer": 2,
+    "explanation": "This principle ensures that for every objective, there is unity of effort under one responsible commander."
+  },
+  {
+    "id": 100,
+    "difficulty": "hard",
+    "category": "Army Operations",
+    "lesson": "Army Operations",
+    "tags": [
+      "perseverance"
+    ],
+    "prompt": "According to the Principles of Army Operations, 'Perseverance' is especially critical in full spectrum operations because:",
+    "options": [
+      "It allows a unit to ignore the objective if the enemy is too strong.",
+      "Soldiers need to be able to march for 24 hours without rest.",
+      "Successful outcomes often require long-term persistence to achieve strategic end states, especially in complex environments.",
+      "It involves the measured application of force to avoid collateral damage."
+    ],
+    "answer": 2,
+    "explanation": "Perseverance acknowledges that some military objectives, particularly in civil governance support, take years of patient effort to fully realize."
+  }
+]
